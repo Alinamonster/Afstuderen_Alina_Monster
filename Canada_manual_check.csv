@@ -1,0 +1,440 @@
+drug_id,canonical_name,available,source
+103,5-aminolevulinic acid,N,NA
+104,acalabrutinib,Y,CADTH
+105,acetylcysteine,N,NA
+106,acoramidis,N,NA
+107,acyclovir,Y,NA
+108,adagrasib,N,NA
+109,afatinib,Y,CADTH
+110,aficamten,N,NA
+111,albendazole,N,NA
+112,alectinib,Y,CADTH
+113,alitretinoin,Y,CADTH
+114,allopurinol,Y,NA
+78,alpelisib,N,NA
+115,altretamine,Y,NA
+116,amantadine,Y,NA
+117,ambrisentan,Y,CADTH
+118,amifampridine,Y,CADTH
+119,amifostine,N,NA
+120,amiodarone hcl,Y,NA
+121,amphotericin b lipid complex,Y,NA
+122,anagrelide,Y,NA
+123,apomorphine hcl,N,NA
+124,apremilast,Y,CADTH
+82,arimoclomol,N,NA
+125,aripiprazole,Y,CADTH
+126,arsenic trioxide,Y,CADTH
+127,artemether/lumefantrine,N,NA
+60,artesunate,N,NA
+37,asciminib,Y,CADTH
+128,ascorbic acid,Y,NA
+129,atovaquone,Y,NA
+66,avacopan,N,NA
+30,avapritinib,Y,CADTH
+130,avatrombopag,N,NA
+131,avutometinib; defactinib,N,NA
+132,azacitidine,Y,CADTH
+133,aztreonam,N,NA
+134,baclofen,Y,NA
+135,balsalazide disodium,N,NA
+83,bardoxolone methyl,N,NA
+98,beclomethasone dipropionate,Y,NA
+136,bedaquiline,N,NA
+137,belinostat,Y,CADTH
+20,belumosudil mesilate,Y,CADTH
+138,belzutifan,Y,CADTH
+139,bendamustine for 50 ml admixture,N,NA
+140,benznidazole,N,NA
+91,benzoate,N,NA
+141,benzoate and phenylacetate,N,NA
+142,berotralstat,Y,CADTH
+143,betaine,N,NA
+144,bexarotene,N,NA
+145,bicarbonate infusate,N,NA
+146,birch triterpenes,N,NA
+147,bortezomib,Y,CADTH
+102,bosentan,Y,NA
+148,bosutinib,Y,CADTH
+149,brigatinib,Y,CADTH
+150,brilliant blue g ophthalmic solution,N,NA
+151,brincidofovir,N,NA
+65,budesonide + micronised,Y,CADTH
+152,buprenorphine in combination with naloxone,Y,NA
+153,busulfan,Y,NA
+10,cabozantinib,Y,CADTH
+92,caffeine,Y,NA
+154,calcium,N,NA
+155,calcium + magnesium + potassium + and oxybates,N,NA
+9,cannabidiol,Y,CADTH
+156,capmatinib,N,NA
+157,capsaicin,N,NA
+158,carfilzomib,Y,CADTH
+159,carglumic acid,N,NA
+160,cedazuridine and decitabine,N,NA
+161,ceritinib,Y,CADTH
+52,chenodeoxycholic acid,N,NA
+70,chlormethine,N,NA
+162,cholic acid,N,NA
+163,cinacalcet,Y,NA
+164,cladribine,Y,CADTH
+165,clobazam,Y,NA
+166,clofarabine,N,NA
+167,clofazimine,N,NA
+168,clonidine,Y,NA
+169,clotrimazole,Y,NA
+170,cobicistat,N,NA
+171,cobimetinib,Y,CADTH
+172,colchicine,N,NA
+173,colfosceril palmitate + cetyl alcohol + tyloxapol,N,NA
+81,copanlisib dihydrochloride,N,NA
+174,copper histidinate,N,NA
+175,crinecerfont,N,NA
+176,crizotinib,Y,CADTH
+177,cromolyn ophthalmic solution,N,NA
+178,cysteamine enteric coated,Y,CADTH
+179,cytarabine liposomal,N,NA
+180,d6-tetrabenazine + deutetrabenazine,N,NA
+23,dabrafenib mesilate,Y,CADTH
+181,dacomitinib,Y,CADTH
+182,dalfampridine,N,NA
+29,danicopan,Y,CADTH
+183,dantrolene suspension for injection,Y,NA
+184,dasatinib,Y,NA
+77,daunorubicin ;cytarabine,N,NA
+185,daunorubicin liposome injection,Y,NA
+186,decitabine,N,NA
+187,deferasirox,Y,CADTH
+89,deferiprone,Y,CADTH
+188,deflazacort,N,NA
+189,dehydrated alcohol,N,NA
+3,delamanid,N,NA
+190,delandistrogene moxeparvovec-rokl,N,NA
+191,dexamethasone intravitreal implant,Y,NA
+192,dexrazoxane,N,NA
+193,diazepam,Y,NA
+194,diazoxide choline,N,NA
+195,dichlorphenamide,N,NA
+196,diethylenetriaminepentaacetic acid,N,NA
+197,difluprednate,N,NA
+198,dordaviprone,N,NA
+21,doxecitine;doxribtimine,N,NA
+199,doxorubicin hcl liposome injection,N,NA
+200,dronabinol,N,NA
+201,droxidopa,N,NA
+202,duvelisib,N,NA
+90,edaravone,Y,CADTH
+86,eflornithine ;sulindac,N,NA
+203,eflornithine hcl,N,NA
+54,elafibranor,Y,CADTH
+204,elamipretide,N,NA
+205,elapegademase-lvlr,N,NA
+61,eliglustat,Y,CADTH
+206,eltrombopag,Y,CADTH
+207,emtricitabine and tenofovir alafenamide,Y,NA
+208,enasidenib,N,NA
+209,encorafenib,Y,CADTH
+210,encorafenib + binimetinib,N,NA
+211,entrectinib,Y,CADTH
+212,epirubicin,N,NA
+213,epoetin alfa,Y,NA
+214,epoprostenol,N,NA
+99,eprodisate disodium,N,NA
+215,eribulin,N,NA
+94,etarfolatide,N,NA
+216,ethanolamine oleate,N,NA
+217,ethiodized oil injection,N,NA
+218,etidronate disodium,Y,NA
+219,everolimus,Y,CADTH
+220,exemestane,Y,NA
+28,fedratinib dihydrochloride monohydrate,Y,CADTH
+221,felbamate,N,NA
+222,fenfluramine hci,N,NA
+223,ferumoxytol,Y,CADTH
+224,fexinidazole,N,NA
+225,fludarabine oral tablets,Y,NA
+100,fluocinolone acetonide,Y,CADTH
+226,fomepizole,N,NA
+227,foscarbidopa and foslevodopa,N,NA
+76,fosdenopterin hydrobromide dihydrate,N,NA
+228,fosphenytoin,N,NA
+229,fostamatinib disodium hexahydrate,N,NA
+230,futibatinib,N,NA
+231,gabapentin,Y,NA
+232,gabapentin enacarbil,Y,NA
+233,gallium-68 octreotide,N,NA
+8,ganaxolone,N,NA
+234,ganciclovir intravitreal implant,Y,NA
+235,gefitinib,Y,NA
+26,gilteritinib,Y,CADTH
+56,givinostat monohydrate,N,NA
+63,glasdegib,N,NA
+79,glibenclamide,N,NA
+33,glucarpidase,N,NA
+236,glutamine,N,NA
+39,glycerol phenylbutyrate,Y,CADTH
+237,glycopyrrolate,Y,NA
+67,govorestat,N,NA
+97,gusperimus trihydrochloride,N,NA
+238,halofantrine,N,NA
+239,hemin,N,NA
+240,hydrocortisone,Y,NA
+241,hydroxycarbamide,Y,NA
+242,hydroxyprogesterone caproate,N,NA
+243,ibrutinib,Y,CADTH
+244,ibuprofen lysine,N,NA
+245,idarubicin hcl for injection,N,NA
+87,idebenone;titanium dioxide,N,NA
+246,idelalisib,Y,CADTH
+247,ifosfamide,N,NA
+248,iloprost inhalation solution,N,NA
+249,imatinib,Y,NA
+84,infigratinib monophosphate,N,NA
+250,interferon alfa-2b,N,NA
+251,intravenous carbamazepine,N,NA
+252,iobenguane i,N,NA
+34,iptacopan monohydrate,Y,CADTH
+72,irinotecan anhydrous free-base,N,NA
+253,iron-hexacyanoferrate,N,NA
+55,isavuconazole,Y,CADTH
+254,isavuconazonium,N,NA
+255,ivabradine,Y,CADTH
+256,ivacaftor,Y,CADTH
+1,ivacaftor;tezacaftor;elexacaftor,N,NA
+14,ivosidenib,Y,CADTH
+50,ixazomib,N,NA
+257,l-glutamine,N,NA
+258,lamotrigine,Y,NA
+259,larotrectinib,Y,CADTH
+260,ledipasvir/sofosbuvir,Y,NA
+261,lenalidomide,Y,CADTH
+262,leniolisib,Y,CADTH
+263,lenvatinib,Y,CADTH
+74,leriglitazone,N,NA
+35,letermovir,Y,CADTH
+264,leucovorin,Y,NA
+265,levacetylleucine,N,NA
+266,levocarnitine,Y,NA
+267,levodopa and carbidopa,Y,NA
+268,levoketoconazole,N,NA
+269,levoleucovorin,N,NA
+270,levomethadyl,N,NA
+271,lidocaine patch,N,NA
+272,linerixibat,N,NA
+273,liothyronine injection,Y,NA
+274,liposomal amikacin,N,NA
+275,lodoxamide tromethamine,Y,NA
+276,lomitapide,N,NA
+69,lonafarnib,N,NA
+277,lorlatinib,Y,CADTH
+278,lumacaftor and ivacaftor,N,NA
+280,lurbinectedin,Y,CADTH
+41,lutetium oxodotreotide,Y,CADTH
+281,macimorelin,N,NA
+282,macitentan,Y,CADTH
+283,macitentan and tadalafil,Y,CADTH
+284,mafenide solution,N,NA
+285,mannitol,N,NA
+47,maralixibat chloride,Y,CADTH
+43,maribavir,Y,CADTH
+68,masitinib mesilate,N,NA
+286,mavacamten,Y,CADTH
+13,mavorixafor,N,NA
+287,mebendazole,Y,NA
+288,megestrol,Y,NA
+289,meloxicam,Y,NA
+290,melphalan,Y,NA
+291,melphalan flufenamide,Y,NA
+53,mercaptamine,N,NA
+292,mercaptopurine oral solution,N,NA
+293,mesalamine; 5-aminosalicylic acid,Y,NA
+294,mesna,N,NA
+295,methotrexate oral solution,Y,NA
+296,methylene blue,N,NA
+297,metronidazole,Y,NA
+25,mexiletine,Y,NA
+298,midazolam,Y,NA
+299,midodrine hcl,Y,NA
+27,midostaurin,Y,CADTH
+93,mifepristone,N,NA
+49,migalastat,Y,CADTH
+300,miglustat,Y,NA
+301,miltefosine,N,NA
+51,mirdametinib,N,NA
+85,mitapivat,N,NA
+302,mitomycin-c,N,NA
+303,mitoxantrone hcl,N,NA
+304,mobocertinib,N,NA
+305,modafinil,Y,NA
+62,momelotinib dihydrochloride monohydrate,Y,CADTH
+306,monooctanoin,N,NA
+307,morphine concentrate,N,NA
+308,moxidectin,N,NA
+309,naltrexone hcl,Y,NA
+310,nelarabine,Y,CADTH
+311,nerandomilast,N,NA
+312,nifurtimox,N,NA
+313,nilotinib,Y,NA
+314,nimodipine,Y,NA
+315,nintedanib,Y,CADTH
+40,niraparib,Y,CADTH
+45,nirogacestat hydrobromide,N,NA
+316,nitazoxanide,N,NA
+317,nitisinone,Y,CADTH
+318,nitric oxide,N,NA
+376,nitrite and thiosulfate,N,NA
+57,odevixibat,Y,CADTH
+319,ofloxacin,Y,NA
+320,olaparib,Y,CADTH
+321,olutasidenib,N,NA
+322,omacetaxine mepesuccinate,N,NA
+6,omaveloxolone,Y,CADTH
+71,osilodrostat,Y,CADTH
+323,osimertinib,Y,CADTH
+377,oxybate,N,NA
+324,paclitaxel,N,NA
+325,pacritinib,N,NA
+80,palovarotene,Y,CADTH
+12,paltusotine,N,NA
+326,panobinostat,N,NA
+327,paricalcitol,N,NA
+328,pazopanib,Y,NA
+329,pegvaliase-pqpz,Y,CADTH
+330,pemetrexed disodium,N,NA
+5,pemigatinib,Y,CADTH
+331,pentamidine isethionate,N,NA
+332,pentastarch,N,NA
+333,pentosan polysulfate,N,NA
+334,pentostatin for injection,N,NA
+88,pexidartinib,N,NA
+335,phenobarbital,Y,NA
+378,phenylbutyrate and taurursodiol,N,NA
+336,phoxillum,N,NA
+337,pilocarpine hcl,Y,NA
+338,pirfenidone,Y,CADTH
+339,pirtobrutinib,Y,CADTH
+48,pitolisant,N,NA
+340,plerixafor,N,NA
+341,polifeprosan 20 with carmustine,N,NA
+73,polihexanide,N,NA
+342,pomalidomide,Y,CADTH
+343,ponatinib,Y,CADTH
+344,porfimer,N,NA
+345,posaconazole,Y,NA
+346,potassium iodide oral solution,N,NA
+96,pralatrexate,Y,CADTH
+347,pralsetinib,Y,CADTH
+16,pretomanid,N,NA
+31,pridopidine,N,NA
+348,propranolol,Y,CADTH
+349,quinine,N,NA
+350,quizartinib,Y,CADTH
+351,raloxifene,Y,NA
+352,regorafenib,Y,CADTH
+353,repotrectinib,N,NA
+59,resminostat mesilate,N,NA
+354,revumenib,N,NA
+355,ribavirin,N,NA
+356,riboflavin ophthalmic solution & ultraviolet a,N,NA
+357,rifabutin,Y,NA
+358,rifampin,Y,NA
+359,rifampin + isoniazid + pyrazinamide,N,NA
+360,rifapentine,N,NA
+361,rifaximin,Y,CADTH
+362,riluzole,Y,NA
+32,rilzabrutinib,N,NA
+363,riociguat,Y,CADTH
+19,ripretinib,Y,CADTH
+364,risdiplam,Y,CADTH
+95,romidepsin,Y,CADTH
+365,rosuvastatin,Y,NA
+101,rubitecan,N,NA
+366,rucaparib,N,NA
+367,rufinamide,Y,CADTH
+368,ruxolitinib,Y,CADTH
+369,sapropterin,Y,NA
+44,sebetralstat,N,NA
+15,seladelpar lysine dihydrate,Y,CADTH
+370,selegiline hcl,Y,NA
+371,selexipag,Y,CADTH
+372,selinexor,Y,CADTH
+373,selpercatinib,Y,CADTH
+22,selumetinib,Y,CADTH
+17,sepiapterin,Y,CADTH
+374,sevabertinib,N,NA
+375,sildenafil,Y,NA
+58,sirolimus,Y,NA
+380,sofosbuvir,Y,CADTH
+381,solriamfetol,N,NA
+382,sorafenib,N,NA
+383,sotalol hcl,Y,NA
+384,sotorasib,N,NA
+38,sparsentan,N,NA
+385,sterile talc powder,N,NA
+386,stiripentol,Y,CADTH
+387,succimer,N,NA
+388,sulfadiazine,Y,NA
+389,tacrolimus extended-release capsules,Y,NA
+390,tadalafil,Y,CADTH
+46,tafamidis,Y,CADTH
+391,tafamidis meglumine,N,NA
+392,tafenoquine,N,NA
+393,taletrectinib,N,NA
+394,tasimelteon,N,NA
+395,tazemetostat,N,NA
+396,tecovirimat,N,NA
+36,telotristat etiprate,N,NA
+397,temozolomide,Y,NA
+398,teniposide,N,NA
+399,tenofovir,Y,NA
+400,tepotinib,N,NA
+401,tetrabenazine,Y,NA
+279,tezacaftor;ivacaftor,N,NA
+402,thalidomide,N,NA
+379,thiosulfate,N,NA
+403,thiotepa,N,NA
+404,tinidazole,N,NA
+405,tiopronin,N,NA
+64,tiratricol,N,NA
+406,tobramycin for inhalation,Y,NA
+407,tolvaptan,Y,NA
+408,topiramate,Y,NA
+409,toremifene,N,NA
+11,tovorafenib,N,NA
+410,trabectedin,Y,CADTH
+411,trametinib and dabrafenib,Y,CADTH
+42,trametinib dimethyl sulfoxide,Y,CADTH
+412,treosulfan,Y,CADTH
+413,treprostinil inhalation powder,N,NA
+414,triclabendazole,N,NA
+415,trientine hcl,N,NA
+416,trifluridine/tipiracil,N,NA
+417,triheptanoin,Y,CADTH
+418,trimetrexate glucuronate,N,NA
+4,trofinetide,Y,CADTH
+419,trypan blue,N,NA
+420,tucatinib,Y,CADTH
+421,umbralisib,N,NA
+422,upadacitinib,Y,CADTH
+423,uridine triacetate,N,NA
+424,urofollitropin,N,NA
+425,ursodiol,Y,NA
+426,valbenazine,N,NA
+427,valrubicin,N,NA
+24,vamorolone,Y,CADTH
+428,vandetanib,Y,CADTH
+429,vanzacaftor + tezacaftor + and deutivacaftor,N,NA
+7,velmanase alfa,N,NA
+430,vemurafenib,Y,CADTH
+431,venetoclax,Y,CADTH
+432,vigabatrin,Y,NA
+18,vimseltinib dihydrate,N,NA
+433,vincristine liposome injection,Y,NA
+2,vorasidenib,Y,CADTH
+434,vorinostat,N,NA
+75,voxelotor,N,NA
+435,zanubrutinib,Y,CADTH
+436,zidovudine,Y,NA
+437,ziftomenib,N,NA
+438,zinc,Y,NA
+439,zoledronate,N,NA

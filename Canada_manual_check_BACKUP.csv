@@ -1,0 +1,448 @@
+drug_id;canonical_name;available;source
+103;5-aminolevulinic acid;N;
+104;acalabrutinib;Y;CADTH
+105;acetylcysteine;N;
+106;acoramidis;N;
+107;acyclovir;Y;
+108;adagrasib;N;
+109;afatinib;Y;CADTH
+110;aficamten;N;
+111;albendazole;N;
+112;alectinib;Y;CADTH
+113;alitretinoin;Y;CADTH
+114;allopurinol;Y;
+78;alpelisib;N;
+115;altretamine;Y;
+116;amantadine;Y;
+117;ambrisentan;Y;CADTH
+118;amifampridine;Y;CADTH
+119;amifostine;N;
+120;aminosalicylic acid;Y;
+121;amiodarone hcl;Y;
+122;amphotericin b lipid complex;Y;
+123;anagrelide;Y;
+124;apomorphine hcl;N;
+125;apremilast;Y;CADTH
+82;arimoclomol;N;
+126;aripiprazole;Y;CADTH
+127;arsenic trioxide;Y;CADTH
+128;artemether/lumefantrine;N;
+60;artesunate;N;
+37;asciminib;Y;CADTH
+129;ascorbic acid;Y;
+130;atovaquone;Y;
+66;avacopan;N;
+30;avapritinib;Y;CADTH
+131;avatrombopag;N;
+132;"avutometinib; defactinib";N;
+133;azacitidine;Y;CADTH
+134;aztreonam;N;
+135;baclofen;Y;
+136;balsalazide disodium;N;
+83;bardoxolone methyl;N;
+98;beclomethasone dipropionate;Y;
+137;bedaquiline;N;
+138;belinostat;Y;CADTH
+20;belumosudil mesilate;Y;CADTH
+139;belzutifan;Y;CADTH
+140;bendamustine for 50 ml admixture;N;
+141;benznidazole;N;
+91;benzoate;N;
+142;benzoate and phenylacetate;N;
+143;berotralstat;Y;CADTH
+144;betaine;N;
+145;bexarotene;N;
+146;bicarbonate infusate;N;
+147;birch triterpenes;N;
+148;bortezomib;Y;CADTH
+102;bosentan;Y;
+149;bosutinib;Y;CADTH
+150;brigatinib;Y;CADTH
+151;brilliant blue g ophthalmic solution;N;
+152;brincidofovir;N;
+65;budesonide + micronised;Y;CADTH
+153;buprenorphine in combination with naloxone;Y;
+154;busulfan;Y;
+10;cabozantinib;Y;CADTH
+92;caffeine;Y;
+155;calcium;N;
+156;calcium + magnesium + potassium + and oxybates;N;
+9;cannabidiol;Y;CADTH
+157;capmatinib;N;
+158;capsaicin;N;
+159;carfilzomib;Y;CADTH
+160;carglumic acid;N;
+161;cedazuridine and decitabine;N;
+162;ceritinib;Y;CADTH
+52;chenodeoxycholic acid;N;
+70;chlormethine;N;
+163;cholic acid;N;
+164;cinacalcet;Y;
+165;cladribine;Y;CADTH
+166;clobazam;Y;
+167;clofarabine;N;
+168;clofazimine;N;
+169;clonidine;Y;
+170;clotrimazole;Y;
+171;cobicistat;N;
+172;cobimetinib;Y;CADTH
+173;colchicine;N;
+174;colfosceril palmitate + cetyl alcohol + tyloxapol;N;
+81;copanlisib dihydrochloride;N;
+175;copper histidinate;N;
+176;crinecerfont;N;
+177;crizotinib;Y;CADTH
+178;cromolyn ophthalmic solution;N;
+179;cysteamine enteric coated;Y;CADTH
+180;cytarabine liposomal;N;
+181;d6-tetrabenazine + deutetrabenazine;N;
+23;dabrafenib mesilate;Y;CADTH
+182;dacomitinib;Y;CADTH
+183;dalfampridine;N;
+29;danicopan;Y;CADTH
+184;dantrolene suspension for injection;Y;
+185;dasatinib;Y;
+77;"daunorubicin ;cytarabine";N;
+186;daunorubicin liposome injection;Y;
+187;decitabine;N;
+188;deferasirox;Y;CADTH
+89;deferiprone;Y;CADTH
+189;deflazacort;N;
+190;dehydrated alcohol;N;
+3;delamanid;N;
+191;delandistrogene moxeparvovec-rokl;N;
+192;dexamethasone;Y;
+193;dexamethasone intravitreal implant;Y;
+194;dexrazoxane;N;
+195;diazepam;Y;
+196;diazoxide choline;N;
+197;dichlorphenamide;N;
+198;diethylenetriaminepentaacetic acid;N;
+199;difluprednate;N;
+200;dordaviprone;N;
+21;"doxecitine;doxribtimine";N;
+201;doxorubicin hcl liposome injection;N;
+202;dronabinol;N;
+203;droxidopa;N;
+204;duvelisib;N;
+90;edaravone;Y;CADTH
+86;"eflornithine ;sulindac";N;
+205;eflornithine hcl;N;
+54;elafibranor;Y;CADTH
+206;elamipretide;N;
+207;elapegademase-lvlr;N;
+61;eliglustat;Y;CADTH
+208;eltrombopag;Y;CADTH
+209;emtricitabine and tenofovir alafenamide;Y;
+210;enasidenib;N;
+211;encorafenib;Y;CADTH
+212;encorafenib + binimetinib;N;
+213;entrectinib;Y;CADTH
+214;epirubicin;N;
+215;epoetin alfa;Y;
+216;epoprostenol;N;
+99;eprodisate disodium;N;
+217;eribulin;N;
+94;etarfolatide;N;
+218;ethanolamine oleate;N;
+219;ethiodized oil injection;N;
+220;etidronate disodium;Y;
+221;everolimus;Y;CADTH
+222;exemestane;Y;
+28;fedratinib dihydrochloride monohydrate;Y;CADTH
+223;felbamate;N;
+224;fenfluramine hci;N;
+225;ferumoxytol;Y;CADTH
+226;fexinidazole;N;
+227;fludarabine;Y;
+228;fludarabine oral tablets;Y;
+100;fluocinolone acetonide;Y;CADTH
+229;fomepizole;N;
+230;foscarbidopa and foslevodopa;N;
+76;fosdenopterin hydrobromide dihydrate;N;
+231;fosphenytoin;N;
+232;fostamatinib disodium hexahydrate;N;
+233;futibatinib;N;
+234;gabapentin;Y;
+235;gabapentin enacarbil;Y;
+236;gallium-68 octreotide;N;
+8;ganaxolone;N;
+237;ganciclovir intravitreal implant;Y;
+238;gefitinib;Y;
+26;gilteritinib;Y;CADTH
+56;givinostat monohydrate;N;
+63;glasdegib;N;
+79;glibenclamide;N;
+33;glucarpidase;N;
+239;glutamine;N;
+39;glycerol phenylbutyrate;Y;CADTH
+240;glycopyrrolate;Y;
+67;govorestat;N;
+97;gusperimus trihydrochloride;N;
+241;halofantrine;N;
+242;hemin;N;
+243;hydrocortisone;Y;
+244;hydroxycarbamide;N;
+245;hydroxyprogesterone caproate;N;
+246;hydroxyurea;Y;
+247;ibrutinib;Y;CADTH
+248;ibuprofen lysine;N;
+249;idarubicin hcl for injection;N;
+87;"idebenone;titanium dioxide";N;
+250;idelalisib;Y;CADTH
+251;ifosfamide;N;
+252;iloprost;N;
+253;iloprost inhalation solution;N;
+254;imatinib;Y;
+84;infigratinib monophosphate;N;
+255;interferon alfa-2b;N;
+256;intravenous carbamazepine;N;
+257;iobenguane i;N;
+34;iptacopan monohydrate;Y;CADTH
+72;irinotecan anhydrous free-base;N;
+258;iron-hexacyanoferrate;N;
+55;isavuconazole;Y;CADTH
+259;isavuconazonium;N;
+260;ivabradine;Y;CADTH
+261;ivacaftor;Y;CADTH
+1;"ivacaftor;tezacaftor;elexacaftor";N;
+14;ivosidenib;Y;CADTH
+50;ixazomib;N;
+262;l-glutamine;N;
+263;lamotrigine;Y;
+264;larotrectinib;Y;CADTH
+265;ledipasvir/sofosbuvir;Y;
+266;lenalidomide;Y;CADTH
+267;leniolisib;Y;CADTH
+268;lenvatinib;Y;CADTH
+74;leriglitazone;N;
+35;letermovir;Y;CADTH
+269;leucovorin;Y;
+270;levacetylleucine;N;
+271;levocarnitine;Y;
+272;levodopa and carbidopa;Y;
+273;levoketoconazole;N;
+274;levoleucovorin;N;
+275;levomethadyl;N;
+276;lidocaine patch;N;
+277;linerixibat;N;
+278;liothyronine injection;Y;
+279;liposomal amikacin;N;
+280;lodoxamide tromethamine;Y;
+281;lomitapide;N;
+69;lonafarnib;N;
+282;lorlatinib;Y;CADTH
+283;lumacaftor and ivacaftor;N;
+285;lurbinectedin;Y;CADTH
+41;lutetium oxodotreotide;Y;CADTH
+286;macimorelin;N;
+287;macitentan;Y;CADTH
+288;macitentan and tadalafil;Y;CADTH
+289;mafenide solution;N;
+290;mannitol;N;
+47;maralixibat chloride;Y;CADTH
+43;maribavir;Y;CADTH
+68;masitinib mesilate;N;
+291;mavacamten;Y;CADTH
+13;mavorixafor;N;
+292;mebendazole;Y;
+293;meclorethamine;N;
+294;megestrol;Y;
+295;meloxicam;Y;
+296;melphalan;Y;
+297;melphalan flufenamide;Y;
+53;mercaptamine;N;
+298;mercaptopurine oral solution;N;
+299;"mesalamine; 5-aminosalicylic acid";N;
+300;mesna;N;
+301;methotrexate oral solution;Y;
+302;methylene blue;N;
+303;metronidazole;Y;
+25;mexiletine;Y;
+304;midazolam;Y;
+305;midodrine hcl;Y;
+27;midostaurin;Y;CADTH
+93;mifepristone;N;
+49;migalastat;Y;CADTH
+306;miglustat;Y;
+307;miltefosine;N;
+51;mirdametinib;N;
+85;mitapivat;N;
+308;mitomycin-c;N;
+309;mitoxantrone hcl;N;
+310;mobocertinib;N;
+311;modafinil;Y;
+62;momelotinib dihydrochloride monohydrate;Y;CADTH
+312;monooctanoin;N;
+313;morphine concentrate;N;
+314;moxidectin;N;
+315;naltrexone hcl;Y;
+316;nelarabine;Y;CADTH
+317;nerandomilast;N;
+318;nifurtimox;N;
+319;nilotinib;Y;
+320;nimodipine;Y;
+321;nintedanib;Y;CADTH
+40;niraparib;Y;CADTH
+45;nirogacestat hydrobromide;N;
+322;nitazoxanide;N;
+323;nitisinone;Y;CADTH
+324;nitric oxide;N;
+383;nitrite and thiosulfate;N;
+57;odevixibat;Y;CADTH
+325;ofloxacin;Y;
+326;olaparib;Y;CADTH
+327;olutasidenib;N;
+328;omacetaxine mepesuccinate;N;
+6;omaveloxolone;Y;CADTH
+71;osilodrostat;Y;CADTH
+329;osimertinib;Y;CADTH
+384;oxybate;N;
+330;paclitaxel;N;
+331;pacritinib;N;
+80;palovarotene;Y;CADTH
+12;paltusotine;N;
+332;panobinostat;N;
+333;paricalcitol;N;
+334;pazopanib;Y;
+335;pegvaliase-pqpz;Y;CADTH
+336;pemetrexed disodium;N;
+5;pemigatinib;Y;CADTH
+337;pentamidine isethionate;N;
+338;pentastarch;N;
+339;pentosan polysulfate;N;
+340;pentostatin for injection;N;
+88;pexidartinib;N;
+341;phenobarbital;Y;
+385;phenylbutyrate and taurursodiol;N;
+342;phoxillum;N;
+343;pilocarpine hcl;Y;
+344;pirfenidone;Y;CADTH
+345;pirtobrutinib;Y;CADTH
+48;pitolisant;N;
+346;plerixafor;N;
+347;polifeprosan 20 with carmustine;N;
+73;polihexanide;N;
+348;pomalidomide;Y;CADTH
+349;ponatinib;Y;CADTH
+350;porfimer;N;
+351;posaconazole;Y;
+352;potassium;N;
+353;potassium iodide oral solution;N;
+96;pralatrexate;Y;CADTH
+354;pralsetinib;Y;CADTH
+16;pretomanid;N;
+31;pridopidine;N;
+355;propranolol;Y;CADTH
+356;quinine;N;
+357;quizartinib;Y;CADTH
+358;raloxifene;Y;
+359;regorafenib;Y;CADTH
+360;repotrectinib;N;
+59;resminostat mesilate;N;
+361;revumenib;N;
+362;ribavirin;N;
+363;riboflavin ophthalmic solution & ultraviolet a;N;
+364;rifabutin;Y;
+365;rifampin;Y;
+366;rifampin + isoniazid + pyrazinamide;N;
+367;rifapentine;N;
+368;rifaximin;Y;CADTH
+369;riluzole;Y;
+32;rilzabrutinib;N;
+370;riociguat;Y;CADTH
+19;ripretinib;Y;CADTH
+371;risdiplam;Y;CADTH
+95;romidepsin;Y;CADTH
+372;rosuvastatin;Y;
+101;rubitecan;N;
+373;rucaparib;N;
+374;rufinamide;Y;CADTH
+375;ruxolitinib;Y;CADTH
+376;sapropterin;Y;
+44;sebetralstat;N;
+15;seladelpar lysine dihydrate;Y;CADTH
+377;selegiline hcl;Y;
+378;selexipag;Y;CADTH
+379;selinexor;Y;CADTH
+380;selpercatinib;Y;CADTH
+22;selumetinib;Y;CADTH
+17;sepiapterin;Y;CADTH
+381;sevabertinib;N;
+382;sildenafil;Y;
+58;sirolimus;Y;
+387;sofosbuvir;Y;CADTH
+388;solriamfetol;N;
+389;sorafenib;N;
+390;sotalol hcl;Y;
+391;sotorasib;N;
+38;sparsentan;N;
+392;sterile talc powder;N;
+393;stiripentol;Y;CADTH
+394;succimer;N;
+395;sulfadiazine;Y;
+396;tacrolimus extended-release capsules;Y;
+397;tadalafil;Y;CADTH
+46;tafamidis;Y;CADTH
+398;tafamidis meglumine;N;
+399;tafenoquine;N;
+400;taletrectinib;N;
+401;tasimelteon;N;
+402;tazemetostat;N;
+403;tecovirimat;N;
+36;telotristat etiprate;N;
+404;temozolomide;Y;
+405;teniposide;N;
+406;tenofovir;Y;
+407;tepotinib;N;
+408;tetrabenazine;Y;
+284;"tezacaftor;ivacaftor";N;
+409;thalidomide;N;
+386;thiosulfate;N;
+410;thiotepa;N;
+411;tinidazole;N;
+412;tiopronin;N;
+64;tiratricol;N;
+413;tobramycin for inhalation;Y;
+414;tolvaptan;Y;
+415;topiramate;Y;
+416;toremifene;N;
+11;tovorafenib;N;
+417;trabectedin;Y;CADTH
+418;trametinib and dabrafenib;Y;CADTH
+42;trametinib dimethyl sulfoxide;Y;CADTH
+419;treosulfan;Y;CADTH
+420;treprostinil inhalation powder;N;
+421;triclabendazole;N;
+422;trientine hcl;N;
+423;trientine tetrahydrochloride;N;
+424;trifluridine/tipiracil;N;
+425;triheptanoin;Y;CADTH
+426;trimetrexate glucuronate;N;
+4;trofinetide;Y;CADTH
+427;trypan blue;N;
+428;tucatinib;Y;CADTH
+429;umbralisib;N;
+430;upadacitinib;Y;CADTH
+431;uridine triacetate;N;
+432;urofollitropin;N;
+433;ursodiol;Y;
+434;valbenazine;N;
+435;valrubicin;N;
+24;vamorolone;Y;CADTH
+436;vandetanib;Y;CADTH
+437;vanzacaftor + tezacaftor + and deutivacaftor;N;
+7;velmanase alfa;N;
+438;vemurafenib;Y;CADTH
+439;venetoclax;Y;CADTH
+440;vigabatrin;Y;
+18;vimseltinib dihydrate;N;
+441;vincristine liposome injection;Y;
+2;vorasidenib;Y;CADTH
+442;vorinostat;N;
+75;voxelotor;N;
+443;zanubrutinib;Y;CADTH
+444;zidovudine;Y;
+445;ziftomenib;N;
+446;zinc;Y;
+447;zoledronate;N;

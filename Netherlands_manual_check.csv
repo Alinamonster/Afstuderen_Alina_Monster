@@ -1,0 +1,440 @@
+drug_id,canonical_name,available
+103,5-aminolevulinic acid,N
+104,acalabrutinib,Y
+105,acetylcysteine,N
+106,acoramidis,Y
+107,acyclovir,Y
+108,adagrasib,N
+109,afatinib,Y
+110,aficamten,N
+111,albendazole,Y
+112,alectinib,Y
+113,alitretinoin,Y
+114,allopurinol,Y
+78,alpelisib,Y
+115,altretamine,N
+116,amantadine,Y
+117,ambrisentan,Y
+118,amifampridine,Y
+119,amifostine,N
+120,amiodarone hcl,Y
+121,amphotericin b lipid complex,N
+122,anagrelide,Y
+123,apomorphine hcl,Y
+124,apremilast,Y
+82,arimoclomol,N
+125,aripiprazole,Y
+126,arsenic trioxide,N
+127,artemether/lumefantrine,Y
+60,artesunate,N
+37,asciminib,Y
+128,ascorbic acid,N
+129,atovaquone,Y
+66,avacopan,Y
+30,avapritinib,Y
+130,avatrombopag,Y
+131,avutometinib; defactinib,N
+132,azacitidine,Y
+133,aztreonam,Y
+134,baclofen,Y
+135,balsalazide disodium,N
+83,bardoxolone methyl,N
+98,beclomethasone dipropionate,Y
+136,bedaquiline,Y
+137,belinostat,N
+20,belumosudil mesilate,N
+138,belzutifan,N
+139,bendamustine for 50 ml admixture,Y
+140,benznidazole,N
+91,benzoate,N
+141,benzoate and phenylacetate,N
+142,berotralstat,Y
+143,betaine,Y
+144,bexarotene,Y
+145,bicarbonate infusate,N
+146,birch triterpenes,N
+147,bortezomib,Y
+102,bosentan,Y
+148,bosutinib,Y
+149,brigatinib,Y
+150,brilliant blue g ophthalmic solution,Y
+151,brincidofovir,N
+65,budesonide + micronised,Y
+152,buprenorphine in combination with naloxone,Y
+153,busulfan,Y
+10,cabozantinib,Y
+92,caffeine,Y
+154,calcium,N
+155,calcium + magnesium + potassium + and oxybates,N
+9,cannabidiol,N
+156,capmatinib,Y
+157,capsaicin,Y
+158,carfilzomib,Y
+159,carglumic acid,N
+160,cedazuridine and decitabine,Y
+161,ceritinib,Y
+52,chenodeoxycholic acid,N
+70,chlormethine,Y
+162,cholic acid,N
+163,cinacalcet,Y
+164,cladribine,Y
+165,clobazam,Y
+166,clofarabine,Y
+167,clofazimine,N
+168,clonidine,Y
+169,clotrimazole,Y
+170,cobicistat,Y
+171,cobimetinib,Y
+172,colchicine,Y
+173,colfosceril palmitate + cetyl alcohol + tyloxapol,N
+81,copanlisib dihydrochloride,N
+174,copper histidinate,N
+175,crinecerfont,N
+176,crizotinib,Y
+177,cromolyn ophthalmic solution,N
+178,cysteamine enteric coated,N
+179,cytarabine liposomal,Y
+180,d6-tetrabenazine + deutetrabenazine,N
+23,dabrafenib mesilate,Y
+181,dacomitinib,Y
+182,dalfampridine,N
+29,danicopan,Y
+183,dantrolene suspension for injection,Y
+184,dasatinib,Y
+77,daunorubicin ;cytarabine,Y
+185,daunorubicin liposome injection,Y
+186,decitabine,Y
+187,deferasirox,Y
+89,deferiprone,Y
+188,deflazacort,Y
+189,dehydrated alcohol,N
+3,delamanid,N
+190,delandistrogene moxeparvovec-rokl,N
+191,dexamethasone intravitreal implant,Y
+192,dexrazoxane,Y
+193,diazepam,Y
+194,diazoxide choline,Y
+195,dichlorphenamide,N
+196,diethylenetriaminepentaacetic acid,N
+197,difluprednate,N
+198,dordaviprone,N
+21,doxecitine;doxribtimine,N
+199,doxorubicin hcl liposome injection,Y
+200,dronabinol,N
+201,droxidopa,N
+202,duvelisib,N
+90,edaravone,N
+86,eflornithine ;sulindac,N
+203,eflornithine hcl,N
+54,elafibranor,N
+204,elamipretide,N
+205,elapegademase-lvlr,N
+61,eliglustat,Y
+206,eltrombopag,Y
+207,emtricitabine and tenofovir alafenamide,Y
+208,enasidenib,N
+209,encorafenib,Y
+210,encorafenib + binimetinib,Y
+211,entrectinib,Y
+212,epirubicin,Y
+213,epoetin alfa,Y
+214,epoprostenol,Y
+99,eprodisate disodium,N
+215,eribulin,Y
+94,etarfolatide,N
+216,ethanolamine oleate,N
+217,ethiodized oil injection,N
+218,etidronate disodium,Y
+219,everolimus,Y
+220,exemestane,Y
+28,fedratinib dihydrochloride monohydrate,Y
+221,felbamate,Y
+222,fenfluramine hci,Y
+223,ferumoxytol,N
+224,fexinidazole,N
+225,fludarabine oral tablets,Y
+100,fluocinolone acetonide,N
+226,fomepizole,N
+227,foscarbidopa and foslevodopa,Y
+76,fosdenopterin hydrobromide dihydrate,N
+228,fosphenytoin,N
+229,fostamatinib disodium hexahydrate,Y
+230,futibatinib,N
+231,gabapentin,Y
+232,gabapentin enacarbil,Y
+233,gallium-68 octreotide,Y
+8,ganaxolone,N
+234,ganciclovir intravitreal implant,Y
+235,gefitinib,Y
+26,gilteritinib,Y
+56,givinostat monohydrate,N
+63,glasdegib,N
+79,glibenclamide,N
+33,glucarpidase,Y
+236,glutamine,N
+39,glycerol phenylbutyrate,N
+237,glycopyrrolate,N
+67,govorestat,N
+97,gusperimus trihydrochloride,N
+238,halofantrine,N
+239,hemin,Y
+240,hydrocortisone,Y
+241,hydroxycarbamide,Y
+242,hydroxyprogesterone caproate,N
+243,ibrutinib,Y
+244,ibuprofen lysine,N
+245,idarubicin hcl for injection,Y
+87,idebenone;titanium dioxide,N
+246,idelalisib,Y
+247,ifosfamide,N
+248,iloprost inhalation solution,Y
+249,imatinib,Y
+84,infigratinib monophosphate,N
+250,interferon alfa-2b,N
+251,intravenous carbamazepine,Y
+252,iobenguane i,N
+34,iptacopan monohydrate,N
+72,irinotecan anhydrous free-base,N
+253,iron-hexacyanoferrate,N
+55,isavuconazole,Y
+254,isavuconazonium,N
+255,ivabradine,Y
+256,ivacaftor,Y
+1,ivacaftor;tezacaftor;elexacaftor,Y
+14,ivosidenib,Y
+50,ixazomib,Y
+257,l-glutamine,N
+258,lamotrigine,Y
+259,larotrectinib,Y
+260,ledipasvir/sofosbuvir,Y
+261,lenalidomide,Y
+262,leniolisib,N
+263,lenvatinib,Y
+74,leriglitazone,N
+35,letermovir,Y
+264,leucovorin,Y
+265,levacetylleucine,N
+266,levocarnitine,Y
+267,levodopa and carbidopa,Y
+268,levoketoconazole,N
+269,levoleucovorin,N
+270,levomethadyl,N
+271,lidocaine patch,N
+272,linerixibat,N
+273,liothyronine injection,Y
+274,liposomal amikacin,Y
+275,lodoxamide tromethamine,N
+276,lomitapide,Y
+69,lonafarnib,N
+277,lorlatinib,Y
+278,lumacaftor and ivacaftor,Y
+280,lurbinectedin,N
+41,lutetium oxodotreotide,Y
+281,macimorelin,N
+282,macitentan,Y
+283,macitentan and tadalafil,Y
+284,mafenide solution,N
+285,mannitol,N
+47,maralixibat chloride,N
+43,maribavir,Y
+68,masitinib mesilate,N
+286,mavacamten,Y
+13,mavorixafor,N
+287,mebendazole,N
+288,megestrol,Y
+289,meloxicam,Y
+290,melphalan,Y
+291,melphalan flufenamide,Y
+53,mercaptamine,Y
+292,mercaptopurine oral solution,N
+293,mesalamine; 5-aminosalicylic acid,Y
+294,mesna,N
+295,methotrexate oral solution,Y
+296,methylene blue,N
+297,metronidazole,Y
+25,mexiletine,Y
+298,midazolam,Y
+299,midodrine hcl,N
+27,midostaurin,Y
+93,mifepristone,Y
+49,migalastat,N
+300,miglustat,Y
+301,miltefosine,N
+51,mirdametinib,N
+85,mitapivat,N
+302,mitomycin-c,Y
+303,mitoxantrone hcl,Y
+304,mobocertinib,N
+305,modafinil,Y
+62,momelotinib dihydrochloride monohydrate,N
+306,monooctanoin,N
+307,morphine concentrate,Y
+308,moxidectin,N
+309,naltrexone hcl,Y
+310,nelarabine,Y
+311,nerandomilast,N
+312,nifurtimox,N
+313,nilotinib,Y
+314,nimodipine,Y
+315,nintedanib,Y
+40,niraparib,Y
+45,nirogacestat hydrobromide,N
+316,nitazoxanide,N
+317,nitisinone,Y
+318,nitric oxide,N
+376,nitrite and thiosulfate,N
+57,odevixibat,Y
+319,ofloxacin,Y
+320,olaparib,Y
+321,olutasidenib,N
+322,omacetaxine mepesuccinate,N
+6,omaveloxolone,N
+71,osilodrostat,Y
+323,osimertinib,Y
+377,oxybate,N
+324,paclitaxel,Y
+325,pacritinib,N
+80,palovarotene,N
+12,paltusotine,N
+326,panobinostat,N
+327,paricalcitol,N
+328,pazopanib,Y
+329,pegvaliase-pqpz,N
+330,pemetrexed disodium,Y
+5,pemigatinib,N
+331,pentamidine isethionate,N
+332,pentastarch,N
+333,pentosan polysulfate,N
+334,pentostatin for injection,N
+88,pexidartinib,N
+335,phenobarbital,Y
+378,phenylbutyrate and taurursodiol,N
+336,phoxillum,N
+337,pilocarpine hcl,Y
+338,pirfenidone,Y
+339,pirtobrutinib,Y
+48,pitolisant,Y
+340,plerixafor,Y
+341,polifeprosan 20 with carmustine,N
+73,polihexanide,N
+342,pomalidomide,Y
+343,ponatinib,Y
+344,porfimer,N
+345,posaconazole,Y
+346,potassium iodide oral solution,N
+96,pralatrexate,N
+347,pralsetinib,N
+16,pretomanid,N
+31,pridopidine,N
+348,propranolol,Y
+349,quinine,Y
+350,quizartinib,Y
+351,raloxifene,Y
+352,regorafenib,Y
+353,repotrectinib,N
+59,resminostat mesilate,N
+354,revumenib,N
+355,ribavirin,N
+356,riboflavin ophthalmic solution & ultraviolet a,N
+357,rifabutin,Y
+358,rifampin,Y
+359,rifampin + isoniazid + pyrazinamide,Y
+360,rifapentine,N
+361,rifaximin,Y
+362,riluzole,Y
+32,rilzabrutinib,N
+363,riociguat,Y
+19,ripretinib,N
+364,risdiplam,Y
+95,romidepsin,N
+365,rosuvastatin,Y
+101,rubitecan,N
+366,rucaparib,N
+367,rufinamide,Y
+368,ruxolitinib,Y
+369,sapropterin,Y
+44,sebetralstat,N
+15,seladelpar lysine dihydrate,N
+370,selegiline hcl,Y
+371,selexipag,Y
+372,selinexor,N
+373,selpercatinib,Y
+22,selumetinib,Y
+17,sepiapterin,N
+374,sevabertinib,N
+375,sildenafil,N
+58,sirolimus,N
+380,sofosbuvir,Y
+381,solriamfetol,Y
+382,sorafenib,Y
+383,sotalol hcl,Y
+384,sotorasib,N
+38,sparsentan,N
+385,sterile talc powder,N
+386,stiripentol,Y
+387,succimer,N
+388,sulfadiazine,Y
+389,tacrolimus extended-release capsules,Y
+390,tadalafil,Y
+46,tafamidis,Y
+391,tafamidis meglumine,Y
+392,tafenoquine,N
+393,taletrectinib,N
+394,tasimelteon,N
+395,tazemetostat,N
+396,tecovirimat,N
+36,telotristat etiprate,Y
+397,temozolomide,Y
+398,teniposide,N
+399,tenofovir,Y
+400,tepotinib,Y
+401,tetrabenazine,Y
+279,tezacaftor;ivacaftor,Y
+402,thalidomide,N
+379,thiosulfate,N
+403,thiotepa,Y
+404,tinidazole,N
+405,tiopronin,Y
+64,tiratricol,N
+406,tobramycin for inhalation,Y
+407,tolvaptan,Y
+408,topiramate,Y
+409,toremifene,N
+11,tovorafenib,N
+410,trabectedin,Y
+411,trametinib and dabrafenib,Y
+42,trametinib dimethyl sulfoxide,Y
+412,treosulfan,N
+413,treprostinil inhalation powder,Y
+414,triclabendazole,N
+415,trientine hcl,Y
+416,trifluridine/tipiracil,Y
+417,triheptanoin,N
+418,trimetrexate glucuronate,N
+4,trofinetide,N
+419,trypan blue,N
+420,tucatinib,Y
+421,umbralisib,N
+422,upadacitinib,Y
+423,uridine triacetate,N
+424,urofollitropin,Y
+425,ursodiol,Y
+426,valbenazine,N
+427,valrubicin,N
+24,vamorolone,N
+428,vandetanib,Y
+429,vanzacaftor + tezacaftor + and deutivacaftor,N
+7,velmanase alfa,Y
+430,vemurafenib,Y
+431,venetoclax,Y
+432,vigabatrin,Y
+18,vimseltinib dihydrate,N
+433,vincristine liposome injection,Y
+2,vorasidenib,N
+434,vorinostat,N
+75,voxelotor,N
+435,zanubrutinib,Y
+436,zidovudine,Y
+437,ziftomenib,N
+438,zinc,N
+439,zoledronate,N

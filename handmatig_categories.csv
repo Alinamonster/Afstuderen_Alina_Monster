@@ -1,0 +1,440 @@
+drug_id,all_conditions,all_categories,n_unmatched
+1,Cystic fibrosis,Rare respiratory disease,0
+2,Glioma,Rare neoplastic disease,0
+3,Tuberculosis,Rare infectious disease,0
+4,Rett syndrome + Fragile X syndrome,Rare neurologic disease + Rare developmental defect during embryogenesis,0
+5,Haematopoietic neoplasm + Bile duct cancer,NA: Haematopoietic neoplasm + NA: Bile duct cancer,2
+6,Friedreich's ataxia,NA: Friedreich's ataxia,1
+7,"GENERAL Congenital, familial and genetic disorders","NA: GENERAL Congenital, familial and genetic disorders",1
+8,Tuberous sclerosis complex + Seizures and seizure disorders NEC,Rare developmental defect during embryogenesis + NA: Seizures and seizure disorders NEC,1
+9,Mitochondrial encephalomyopathy + 22q11.2 deletion syndrome + Epidermolysis bullosa + Epilepsy with myoclonic-atonic seizures + Fragile X syndrome + Tuberous sclerosis + Lennox-Gastaut syndrome + Graft versus host disease + Perinatal asphyxia + Dravet syndrome,Rare neurologic disease + Rare developmental defect during embryogenesis + Rare skin disease + Rare immune disease + NA: Perinatal asphyxia,1
+10,medullary thyroid carcinoma,Rare neoplastic disease,0
+11,Glioma,Rare neoplastic disease,0
+12,Acromegaly,Rare endocrine disease,0
+13,WHIM syndrome,Rare immune disease,0
+14,Myelodysplastic syndrome + Chondrosarcoma + Acute myeloid leukaemia,Rare neoplastic disease,0
+15,Primary biliary cholangitis,Rare hepatic disease,0
+16,Tuberculosis,Rare infectious disease,0
+17,Hyperphenylalaninaemia,NA: Hyperphenylalaninaemia,1
+18,Giant cell tumour of tendon sheath,NA: Giant cell tumour of tendon sheath,1
+19,gastrointestinal stromal tumours,NA: gastrointestinal stromal tumours,1
+20,Graft versus host disease,Rare immune disease,0
+21,Mitochondrial DNA depletion,Rare inborn errors of metabolism,0
+22,"Astrocytoma, low grade","NA: Astrocytoma, low grade",1
+23,Glioma,Rare neoplastic disease,0
+24,Duchenne muscular dystrophy,Rare neurologic disease,0
+25,Myotonic disorders,NA: Myotonic disorders,1
+26,Acute myeloid leukaemia,Rare neoplastic disease,0
+27,Mastocytosis + Acute myeloid leukaemia,Rare neoplastic disease,0
+28,Myelofibrosis + Primary myelofibrosis,Rare neoplastic disease,0
+29,C3 glomerulopathy + Paroxysmal nocturnal haemoglobinuria,Rare renal disease + NA: Paroxysmal nocturnal haemoglobinuria,1
+30,Mastocytosis + Gastrointestinal stromal tumour,Rare neoplastic disease,0
+31,Amyotrophic lateral sclerosis + Huntington's disease,Rare neurologic disease + NA: Huntington's disease,1
+32,Immunoglobulin G4 related disease + Autoimmune haemolytic anaemia + Immune thrombocytopenic purpura + Pemphigus,NA: Immunoglobulin G4 related disease + NA: Autoimmune haemolytic anaemia + NA: Immune thrombocytopenic purpura + Rare skin disease,3
+33,Adjunctive treatment in patients at risk of methotrexate toxicity,NA: Adjunctive treatment in patients at risk of methotrexate toxicity,1
+34,IgA nephropathy + Paroxysmal nocturnal haemoglobinuria + C3 glomerulopathy,NA: IgA nephropathy + NA: Paroxysmal nocturnal haemoglobinuria + Rare renal disease,2
+35,Cytomegaloviral infections,NA: Cytomegaloviral infections,1
+36,Carcinoid tumor,NA: Carcinoid tumor,1
+37,Chronic myeloid leukaemia,Rare neoplastic disease,0
+38,IgA nephropathy + Focal segmental glomerulosclerosis,NA: IgA nephropathy + NA: Focal segmental glomerulosclerosis,2
+39,Epileptic encephalopathy + Arginase deficiency + Ornithine carbamoyltransferase deficiency,Rare neurologic disease + NA: Arginase deficiency + NA: Ornithine carbamoyltransferase deficiency,2
+40,mantle cell lymphoma,Rare neoplastic disease,0
+41,gastro-entero-pancreatic neuroendocrine tumours,NA: gastro-entero-pancreatic neuroendocrine tumours,1
+42,Glioma,Rare neoplastic disease,0
+43,cytomegalovirus disease in patients with impaired cell mediated immunity,Rare infectious disease,0
+44,Hereditary angioedema with C1 esterase inhibitor deficiency,NA: Hereditary angioedema with C1 esterase inhibitor deficiency,1
+45,Soft tissue sarcoma,Rare neoplastic disease,0
+46,senile systemic amyloidosis,NA: senile systemic amyloidosis,1
+47,Structural and other bile duct disorders + Progressive familial intrahepatic cholestasis + Primary sclerosing cholangitis + Alagille syndrome + Primary biliary cirrhosis,NA: Structural and other bile duct disorders + Rare hepatic disease + Rare developmental defect during embryogenesis + NA: Primary biliary cirrhosis,2
+48,Narcolepsy,Rare neurologic disease,0
+49,Fabry's disease,NA: Fabry's disease,1
+50,Multiple myeloma,Rare neoplastic disease,0
+51,Neurofibromatosis,Rare neurologic disease,0
+52,inborn errors of primary bile acid synthesis,NA: inborn errors of primary bile acid synthesis,1
+53,Cystinosis + Cystic fibrosis,Rare inborn errors of metabolism + Rare respiratory disease,0
+54,Cholangitis sclerosing + Biliary cirrhosis primary,NA: Cholangitis sclerosing + NA: Biliary cirrhosis primary,2
+55,invasive aspergillosis,NA: invasive aspergillosis,1
+56,Duchenne muscular dystrophy,Rare neurologic disease,0
+57,Alagille syndrome,Rare developmental defect during embryogenesis,0
+58,Osteosarcoma + Adenomatous polyposis coli + Lymphangioma + Bronchiolitis obliterans syndrome + Soft tissue sarcoma + Sickle cell disease + Tuberous sclerosis + Pachyonychia congenita,Rare neoplastic disease + NA: Adenomatous polyposis coli + Rare developmental defect during embryogenesis + NA: Bronchiolitis obliterans syndrome + Rare hematologic disease + Rare skin disease,2
+59,Hepatocellular carcinoma + Cutaneous T-cell lymphoma + Hodgkin's disease,Rare neoplastic disease + NA: Hodgkin's disease,1
+60,Malaria,Rare infectious disease,0
+61,Gaucher disease,Rare inborn errors of metabolism,0
+62,Myelofibrosis,Rare neoplastic disease,0
+63,Acute myeloid leukaemia,Rare neoplastic disease,0
+64,Thyroid hormone replacement therapy + Allan-Herndon-Dudley syndrome,NA: Thyroid hormone replacement therapy + Rare neurologic disease,1
+65,Eosinophilic oesophagitis,NA: Eosinophilic oesophagitis,1
+66,C3 glomerulopathy + Granulomatosis with polyangiitis + Microscopic polyangiitis,Rare renal disease + Rare systemic or rheumatologic disease,0
+67,Immunodeficiency + Galactosaemia,Rare immune disease + NA: Galactosaemia,1
+68,Amyotrophic lateral sclerosis + Pancreatic cancer + Multiple myeloma + Mastocytosis,Rare neurologic disease + NA: Pancreatic cancer + Rare neoplastic disease,1
+69,Progeria,Rare developmental defect during embryogenesis,0
+70,Cutaneous T-cell lymphoma,Rare neoplastic disease,0
+71,Cushing's syndrome,NA: Cushing's syndrome,1
+72,Pancreatic cancer,NA: Pancreatic cancer,1
+73,Keratitis fungal + Acanthamoeba keratitis,NA: Keratitis fungal + NA: Acanthamoeba keratitis,2
+74,Friedreich's ataxia + Adrenoleukodystrophy,NA: Friedreich's ataxia + Rare inborn errors of metabolism,1
+75,Sickle cell disease,Rare hematologic disease,0
+76,Molybdenum cofactor deficiency,Rare inborn errors of metabolism,0
+77,Acute myeloid leukaemia,Rare neoplastic disease,0
+78,Lymphangioma + PIK3CA related overgrowth spectrum,Rare developmental defect during embryogenesis + NA: PIK3CA related overgrowth spectrum,1
+79,neonatal diabetes,Rare endocrine disease,0
+80,Fibrodysplasia ossificans progressiva,Rare bone disease,0
+81,Marginal zone lymphoma,Rare neoplastic disease,0
+82,Inclusion body myositis + Niemann-Pick disease + Amyotrophic lateral sclerosis,Rare neurologic disease + Rare inborn errors of metabolism,0
+83,Chronic kidney disease-mineral and bone disorder + Myasthenia gravis + Neuromyelitis optica + Paroxysmal nocturnal haemoglobinuria,NA: Chronic kidney disease-mineral and bone disorder + Rare neurologic disease + NA: Paroxysmal nocturnal haemoglobinuria,2
+84,Cholangiocarcinoma + Hypochondroplasia + Achondroplasia,Rare neoplastic disease + Rare bone disease,0
+85,Sickle cell disease + Thalassaemia alpha + Thalassaemia + Pyruvate kinase deficiency anaemia,Rare hematologic disease + NA: Thalassaemia alpha + NA: Thalassaemia + NA: Pyruvate kinase deficiency anaemia,3
+86,Familial adenomatous polyposis,Rare gastroenterologic disease,0
+87,Duchenne muscular dystrophy + Friedreich's ataxia,Rare neurologic disease + NA: Friedreich's ataxia,1
+88,"tenosynovial giant cell tumour, localised and diffuse type","NA: tenosynovial giant cell tumour, localised and diffuse type",1
+89,neurodegeneration with brain iron accumulation + sickle cell disease,Rare neurologic disease + Rare hematologic disease,0
+90,Amyotrophic lateral sclerosis,Rare neurologic disease,0
+91,N-acetylglutamate synthase deficiency + Lysinuric protein intolerance + Ornithine transcarbamylase deficiency + Arginase deficiency,Rare inborn errors of metabolism + NA: Arginase deficiency,1
+92,Bronchopulmonary dysplasia + Primary apnoea of premature newborns,Rare respiratory disease + NA: Primary apnoea of premature newborns,1
+93,Cushing's syndrome,NA: Cushing's syndrome,1
+94,Ovarian cancer,Rare neoplastic disease,0
+95,Cutaneous T-cell lymphoma,Rare neoplastic disease,0
+96,Hodgkin's lymphoma + Cutaneous T-cell lymphoma,NA: Hodgkin's lymphoma + Rare neoplastic disease,1
+97,Wegener’s granulomatosis,NA: Wegener’s granulomatosis,1
+98,intestinal graft-versus-host disease,NA: intestinal graft-versus-host disease,1
+99,systemic secondary amyloidosis,NA: systemic secondary amyloidosis,1
+100,Uveitis,Rare ophthalmic disorder,0
+101,Pancreatic cancer,NA: Pancreatic cancer,1
+102,Systemic sclerosis (scleroderma) + Pulmonary arterial hypertension and chronic thromboembolic pulmonary hypertension + Idiopathic pulmonary fibrosis,NA: Systemic sclerosis (scleroderma) + NA: Pulmonary arterial hypertension and chronic thromboembolic pulmonary hypertension + Rare respiratory disease,2
+103,Glioma,Rare neoplastic disease,0
+104,Mantle cell lymphoma,Rare neoplastic disease,0
+105,Pseudomyxoma peritonei + Idiopathic pulmonary fibrosis,Rare neoplastic disease + Rare respiratory disease,0
+106,Amyloidoses,NA: Amyloidoses,1
+107,acute herpetic keratitis,NA: acute herpetic keratitis,1
+108,KRAS G12C-mutated lung cancer,NA: KRAS G12C-mutated lung cancer,1
+109,Complex regional pain syndrome + Blood and lymphatic system disorders congenital,Rare neurologic disease + NA: Blood and lymphatic system disorders congenital,1
+110,symptomatic hypertrophic cardiomyopathy.,NA: symptomatic hypertrophic cardiomyopathy.,1
+111,cystic hydatid disease,NA: cystic hydatid disease,1
+112,ALK-positive non-small cell lung cancer,NA: ALK-positive non-small cell lung cancer,1
+113,Kaposi's sarcoma,NA: Kaposi's sarcoma,1
+114,Marfan's syndrome + Perinatal asphyxia,NA: Marfan's syndrome + NA: Perinatal asphyxia,2
+115,adenocarcinoma of the ovary,Rare neoplastic disease,0
+116,levodopa-induced dyskinesia,NA: levodopa-induced dyskinesia,2
+117,Idiopathic pulmonary fibrosis,Rare respiratory disease,0
+118,Lambert-Eaton myasthenic syndrome,Rare neurologic disease,0
+119,reduction of the incidence and severity of toxicities associated with cisplatin administration,NA: reduction of the incidence and severity of toxicities associated with cisplatin administration,1
+120,ventricular tachycardia or ventricular fibrillation,NA: ventricular tachycardia or ventricular fibrillation,1
+121,Meningitis cryptococcal,NA: Meningitis cryptococcal,1
+122,Essential thrombocythaemia + Gastrointestinal stromal tumour,NA: Essential thrombocythaemia + Rare neoplastic disease,1
+123,moderate and severe traumatic brain injury + Parkinson disease + Amyotrophic lateral sclerosis,Rare neurologic disease,0
+124,Behcet's disease,NA: Behcet's disease,1
+125,Tourette's,NA: Tourette's,1
+126,Acute promyelocytic leukaemia + Acute myeloid leukaemia + Multiple myeloma + Myelodysplastic syndromes,Rare neoplastic disease,0
+127,Malaria,Rare infectious disease,0
+128,Facioscapulohumeral muscular dystrophy,NA: Facioscapulohumeral muscular dystrophy,1
+129,AIDS associated Pneumocystis Carinii Pneumonia,NA: AIDS associated Pneumocystis Carinii Pneumonia,1
+130,idiopathic thrombocytopenic purpura,NA: idiopathic thrombocytopenic purpura,1
+131,Ovarian cancer,Rare neoplastic disease,0
+132,Nasopharyngeal carcinoma + Acute myeloid leukaemia + Myelodysplastic syndromes,Rare neoplastic disease,0
+133,gram negative bacterial lung infection in cystic fibrosis,NA: gram negative bacterial lung infection in cystic fibrosis,1
+134,Fragile X syndrome,Rare developmental defect during embryogenesis,0
+135,ulcerative colitis,NA: ulcerative colitis,1
+136,Tuberculosis,Rare infectious disease,0
+137,"peripheral T-cell lymphoma (nodal, other extranodal and leukaemic/disseminated) + Thymic epithelial tumors","NA: peripheral T-cell lymphoma (nodal, other extranodal and leukaemic/disseminated) + NA: Thymic epithelial tumors",2
+138,Von Hippel-Lindau disease,Rare neoplastic disease,0
+139,lymphoma,Rare neoplastic disease,0
+140,Chagas disease,NA: Chagas disease,1
+141,Arginase deficiency + Argininosuccinate lyase deficiency + Argininosuccinate synthetase deficiency + Carbamoyl phosphate synthetase deficiency + Urea cycle disorder,NA: Arginase deficiency + NA: Argininosuccinate lyase deficiency + NA: Argininosuccinate synthetase deficiency + NA: Carbamoyl phosphate synthetase deficiency + NA: Urea cycle disorder,5
+142,Hereditary angioedema,Rare systemic or rheumatologic disease,0
+143,Homocystinuria,Rare inborn errors of metabolism,0
+144,cutaneous T-cell lymphoma,Rare neoplastic disease,0
+145,continuous renal replacement therapy,NA: continuous renal replacement therapy,1
+146,Epidermolysis bullosa,Rare skin disease,0
+147,Amyloidosis,Rare systemic or rheumatologic disease,0
+148,Chronic myeloid leukaemia,Rare neoplastic disease,0
+149,lymphoma,Rare neoplastic disease,0
+150,During ophthalmic surgery,NA: During ophthalmic surgery,1
+151,Smallpox,NA: Smallpox,1
+152,opiate addiction,NA: opiate addiction,1
+153,Conditioning treatment prior to haematopoietic progenitor cell transplantation,NA: Conditioning treatment prior to haematopoietic progenitor cell transplantation,1
+154,hypoparathyroidism,Rare endocrine disease,0
+155,idiopathic hypersomnia,Rare neurologic disease,0
+156,non-small cell lung cancer,NA: non-small cell lung cancer,1
+157,painful HIV-associated neuropathy,NA: painful HIV-associated neuropathy,1
+158,Multiple myeloma,Rare neoplastic disease,0
+159,Methylmalonic aciduria + Isovaleric acidaemia + Propionic acidaemia,Rare inborn errors of metabolism + NA: Isovaleric acidaemia + NA: Propionic acidaemia,2
+160,Myelodysplastic syndrome + Acute myeloid leukaemia,Rare neoplastic disease,0
+161,non-small cell lung carcinoma (NSCLC) that is anaplastic lymphoma kinase (ALK)-positive,NA: non-small cell lung carcinoma (NSCLC) that is anaplastic lymphoma kinase (ALK)-positive,1
+162,Drug toxicity prophylaxis,NA: Drug toxicity prophylaxis,1
+163,primary hyperparathyroidism,Rare bone disease,0
+164,Myeloid leukaemia + Mastocytosis,Rare neoplastic disease,0
+165,Lennox-Gastaut Syndrome,Rare neurologic disease,0
+166,Acute myeloid leukaemia + Acute lymphoblastic leukaemia,Rare neoplastic disease,0
+167,Atypical mycobacterial lower respiratory tract infection,NA: Atypical mycobacterial lower respiratory tract infection,1
+168,Oral mucositis in head and neck cancer patients undergoing radiation therapy,NA: Oral mucositis in head and neck cancer patients undergoing radiation therapy,1
+169,otomycosis,NA: otomycosis,1
+170,Retinitis pigmentosa,Rare ophthalmic disorder,0
+171,melanoma with BRAFV600 mutation,NA: melanoma with BRAFV600 mutation,1
+172,multiple sclerosis,Rare neurologic disease,0
+173,Respiratory Distress Syndrome,Rare respiratory disease,0
+174,Menkes disease,Rare inborn errors of metabolism,0
+175,21-hydroxylase deficiency,Rare developmental defect during embryogenesis,0
+176,non-small cell lung cancer + myofibroblastic tumors,NA: non-small cell lung cancer + NA: myofibroblastic tumors,2
+177,cromolyn,NA: cromolyn,1
+178,Cystic fibrosis + Cystinosis + Rett syndrome + Huntington’s disease + Pancreatic cancer,Rare respiratory disease + Rare inborn errors of metabolism + Rare neurologic disease + NA: Huntington’s disease + NA: Pancreatic cancer,2
+179,Acute myeloid leukaemia,Rare neoplastic disease,0
+180,Huntington's Disease,NA: Huntington's Disease,1
+181,metastatic non-small cell lung cancer,NA: metastatic non-small cell lung cancer,1
+182,multiple sclerosis,Rare neurologic disease,0
+183,Malignant hyperthermia + Wolfram syndrome,Rare neurologic disease + Rare endocrine disease,0
+184,Acute lymphoblastic leukaemia + Chronic myeloid leukaemia,Rare neoplastic disease,0
+185,Acute myeloid leukaemia,Rare neoplastic disease,0
+186,Acute myeloid leukaemia + Myelodysplastic syndromes,Rare neoplastic disease,0
+187,Iron overload,Rare genetic disease,0
+188,Duchenne muscular dystrophy,Rare neurologic disease,0
+189,hypertrophic obstructive cardiomyopathy,NA: hypertrophic obstructive cardiomyopathy,1
+190,Duchenne muscular dystrophy,Rare neurologic disease,0
+191,non-infectious uveitis affecting the posterior segment of the eye,NA: non-infectious uveitis affecting the posterior segment of the eye,1
+192,Anthracycline extravasations,NA: Anthracycline extravasations,1
+193,acute repetitive seizures,NA: acute repetitive seizures,1
+194,Glycogen storage disease type I + Prader-Willi syndrome,NA: Glycogen storage disease type I + Rare developmental defect during embryogenesis,1
+195,periodic paralyses,NA: periodic paralyses,1
+196,Ovarian cancer,Rare neoplastic disease,0
+197,anterior uveitis + panuveitis,Rare ophthalmic disorder,0
+198,Glioma,Rare neoplastic disease,0
+199,Hepatocellular carcinoma,Rare neoplastic disease,0
+200,Complex regional pain syndrome + Glioma,Rare neurologic disease + Rare neoplastic disease,0
+201,orthostatic hypotension in patients with multiple system atrophy,NA: orthostatic hypotension in patients with multiple system atrophy,1
+202,T-cell lymphoma + Follicular lymphoma + Chronic lymphocytic leukaemia,Rare neoplastic disease,0
+203,familial adenomatous polyposis + Neuroblastoma + Glioma,Rare gastroenterologic disease + Rare neoplastic disease,0
+204,Mitochondrial DNA depletion + Barth syndrome,Rare inborn errors of metabolism,0
+205,adenosine deaminase deficiency,Rare immune disease,0
+206,Idiopathic thrombocytopenic purpura,NA: Idiopathic thrombocytopenic purpura,1
+207,Aicardi-Goutières syndrome,Rare neurologic disease,0
+208,Acute myeloid leukaemia,Rare neoplastic disease,0
+209,Non-Small Cell Lung Cancer,NA: Non-Small Cell Lung Cancer,1
+210,metastatic melanoma,NA: metastatic melanoma,1
+211,Neuroblastoma,Rare neoplastic disease,0
+212,Breast cancer,Rare neoplastic disease,0
+213,anemia associated with HIV infection or HIV treatment,NA: anemia associated with HIV infection or HIV treatment,1
+214,pulmonary hypertension,Rare respiratory disease,0
+215,soft tissue sarcoma,Rare neoplastic disease,0
+216,"patients with esophageal varices that have recently bled, to prevent rebleeding","NA: patients with esophageal varices that have recently bled, to prevent rebleeding",1
+217,hepatocellular carcinoma,Rare neoplastic disease,0
+218,Pseudoxanthoma elasticum,Rare skin disease,0
+219,Gastric cancer + Tuberous sclerosis + Renal cell carcinoma,Rare neoplastic disease + Rare developmental defect during embryogenesis,0
+220,breast cancer,Rare neoplastic disease,0
+221,Lennox-Gastaut syndrome,Rare neurologic disease,0
+222,Rett syndrome + CDKL5 deficiency disorder + Lennox-Gastaut syndrome + Dravet syndrome,Rare neurologic disease + NA: CDKL5 deficiency disorder,1
+223,mangement of brain tumors,NA: mangement of brain tumors,1
+224,African trypanosomiasis + sleeping sickness,Rare infectious disease + NA: sleeping sickness,1
+225,chronic lymphocytic leukaemia,Rare neoplastic disease,0
+226,Alcohol poisoning,NA: Alcohol poisoning,1
+227,Parkinson's,NA: Parkinson's,1
+228,status epilepticus,Rare neurologic disease,0
+229,immune thrombocytopenic purpura,NA: immune thrombocytopenic purpura,1
+230,Cholangiocarcinoma,Rare neoplastic disease,0
+231,amyotrophic lateral sclerosis,Rare neurologic disease,0
+232,postherpetic neuralgia,NA: postherpetic neuralgia,1
+233,gastro-entero-pancreatic neuroendocrine tumours,NA: gastro-entero-pancreatic neuroendocrine tumours,1
+234,cytomegalovirus retinitis,NA: cytomegalovirus retinitis,1
+235,Fanconi anaemia,Rare developmental defect during embryogenesis,0
+236,Sickle cell,Rare hematologic disease,0
+237,sialorrhea,NA: sialorrhea,1
+238,acute malaria,NA: acute malaria,1
+239,ischaemia/reperfusion injury associated with solid organ transplantation,NA: ischaemia/reperfusion injury associated with solid organ transplantation,1
+240,Adrenal insufficiency + Congenital adrenal hyperplasia,Rare endocrine disease,0
+241,Sickle cell,Rare hematologic disease,0
+242,Prevention of preterm birth in singleton pregnancies,NA: Prevention of preterm birth in singleton pregnancies,1
+243,Marginal zone lymphoma + Diffuse large B-cell lymphoma + Mantle cell lymphoma + Chronic lymphocytic leukaemia,Rare neoplastic disease,0
+244,Patent ductus arteriosus,Rare developmental defect during embryogenesis,0
+245,leukemia,Rare neoplastic disease,0
+246,Splenic marginal zone lymphoma,Rare neoplastic disease,0
+247,testicular cancer,NA: testicular cancer,1
+248,Systemic scleroderma,NA: Systemic scleroderma,1
+249,Pulmonary arterial hypertension,Rare respiratory disease,0
+250,Essential thrombocythaemia + Chronic myeloid leukaemia + Polycythaemia vera,NA: Essential thrombocythaemia + Rare neoplastic disease + NA: Polycythaemia vera,2
+251,"metaphyseal chondrodysplasia, Schmid-type","NA: metaphyseal chondrodysplasia, Schmid-type",1
+252,Neuroblastoma,Rare neoplastic disease,0
+253,contamination with radioactive or non-radioactive cesium or thallium,NA: contamination with radioactive or non-radioactive cesium or thallium,1
+254,Mucormycosis + Glioma,NA: Mucormycosis + Rare neoplastic disease,1
+255,dilated cardiomyopathy,Rare cardiac disease,0
+256,Cystic fibrosis,Rare respiratory disease,0
+257,Sickle cell,Rare hematologic disease,0
+258,Lennox-Gastaut syndrome,Rare neurologic disease,0
+259,Papillary thyroid cancer + Endocrine neoplasms malignant and unspecified + Salivary gland cancer + Soft tissue sarcoma,NA: Papillary thyroid cancer + NA: Endocrine neoplasms malignant and unspecified + NA: Salivary gland cancer + Rare neoplastic disease,3
+260,hepatitis C virus,Rare hepatic disease,0
+261,Marginal zone lymphoma + Mantle cell lymphoma + Diffuse large B-cell lymphoma + Chronic lymphocytic leukaemia + Myelodysplastic syndromes + Multiple myeloma,Rare neoplastic disease,0
+262,Immunodeficiency common variable + Activated PI3 kinase delta syndrome,NA: Immunodeficiency common variable + NA: Activated PI3 kinase delta syndrome,2
+263,Papillary thyroid cancer + Follicular thyroid cancer + Hepatocellular carcinoma,NA: Papillary thyroid cancer + NA: Follicular thyroid cancer + Rare neoplastic disease,2
+264,osteosarcoma,Rare neoplastic disease,0
+265,Spinocerebellar ataxia + GM2 gangliosidosis + Niemann-Pick disease + Ataxia + Apraxia + Galactosialidosis + Ataxia telangiectasia,Rare neurologic disease + Rare inborn errors of metabolism + NA: Ataxia telangiectasia,1
+266,carnitine deficiency,Rare inborn errors of metabolism,0
+267,Parkinson's disease,NA: Parkinson's disease,1
+268,Cushing's syndrome,NA: Cushing's syndrome,1
+269,osteosarcoma,Rare neoplastic disease,0
+270,heroin addicts,NA: heroin addicts,1
+271,postherpetic neuralgia,NA: postherpetic neuralgia,1
+272,Primary biliary cholangitis,Rare hepatic disease,0
+273,myxedema coma/precoma,NA: myxedema coma/precoma,1
+274,nontuberculous mycobacterial lung disease + Cystic fibrosis + Pseudomonas aeruginosa lung infection in cystic fibrosis,NA: nontuberculous mycobacterial lung disease + Rare respiratory disease + NA: Pseudomonas aeruginosa lung infection in cystic fibrosis,2
+275,vernal keratoconjunctivitis,Rare ophthalmic disorder,0
+276,Familial Chylomicronemia,Rare endocrine disease,0
+277,non-small cell lung cancer,NA: non-small cell lung cancer,1
+278,Cystic fibrosis,Rare respiratory disease,0
+279,Cystic fibrosis,Rare respiratory disease,0
+280,Soft tissue sarcoma + Mesothelioma malignant + Small cell lung cancer recurrent + Ovarian cancer,Rare neoplastic disease + NA: Mesothelioma malignant + NA: Small cell lung cancer recurrent,2
+281,growth hormone deficiency,Rare endocrine disease,0
+282,Pulmonary hypertension + Heart disease congenital + Pulmonary arterial hypertension + Idiopathic pulmonary fibrosis,Rare respiratory disease + NA: Heart disease congenital,1
+283,pulmonary arterial hypertension,Rare respiratory disease,0
+284,bacterial infections in severe burns and to promote wound healing,NA: bacterial infections in severe burns and to promote wound healing,1
+285,Cystic fibrosis,Rare respiratory disease,0
+286,symptomatic hypertrophic cardiomyopathy,NA: symptomatic hypertrophic cardiomyopathy,1
+287,Congenital cystic kidney disease,NA: Congenital cystic kidney disease,1
+288,granulosa cell tumours,NA: granulosa cell tumours,1
+289,juvenile rheumatoid arthritis,NA: juvenile rheumatoid arthritis,1
+290,Plasma cell myeloma,NA: Plasma cell myeloma,1
+291,Plasma cell myeloma,NA: Plasma cell myeloma,1
+292,Acute lymphoblastic leukaemia,Rare neoplastic disease,0
+293,ulcerative colitis,NA: ulcerative colitis,1
+294,hemorrhagic cystitis,NA: hemorrhagic cystitis,1
+295,Lymphoma + Retinal dystrophy + Retinal detachment + Alkaptonuria + Acute lymphoblastic leukaemia,Rare neoplastic disease + Rare ophthalmic disorder + Rare inborn errors of metabolism,0
+296,methemoglobinemia,Rare hematologic disease,0
+297,Pouchitis,Rare gastroenterologic disease,0
+298,Status epilepticus,Rare neurologic disease,0
+299,orthostatic hypotension,Rare neurologic disease,0
+300,Neuronal ceroid lipofuscinosis + Glycogen storage disease type II + Niemann-Pick disease + Gaucher's disease,Rare neurologic disease + NA: Glycogen storage disease type II + Rare inborn errors of metabolism + NA: Gaucher's disease,2
+301,Cutaneous T-cell lymphoma + Acanthamoeba keratitis + Visceral leishmaniasis,Rare neoplastic disease + NA: Acanthamoeba keratitis + NA: Visceral leishmaniasis,2
+302,anal cancer,NA: anal cancer,1
+303,acute nonlymphocytic leukemia + peripheral T-cell lymphoma + multiple sclerosis,NA: acute nonlymphocytic leukemia + Rare neoplastic disease + Rare neurologic disease,1
+304,non-small cell lung cancer,NA: non-small cell lung cancer,1
+305,narcolepsy,Rare neurologic disease,0
+306,gallstones,NA: gallstones,1
+307,intractable chronic pain,NA: intractable chronic pain,1
+308,onchocerciasis volvulus,NA: onchocerciasis volvulus,1
+309,Chronic fatigue + Fibromyalgia,NA: Chronic fatigue + NA: Fibromyalgia,2
+310,Acute lymphoblastic leukaemia,Rare neoplastic disease,0
+311,Idiopathic pulmonary fibrosis,Rare respiratory disease,0
+312,Chagas disease,NA: Chagas disease,1
+313,Chronic myeloid leukaemia + Gastrointestinal stromal tumours,Rare neoplastic disease + NA: Gastrointestinal stromal tumours,1
+314,aneurysmal subarachnoid haemorrhage,NA: aneurysmal subarachnoid haemorrhage,1
+315,Idiopathic pulmonary fibrosis + Systemic sclerosis + ,Rare respiratory disease + Rare systemic or rheumatologic disease + NA: ,1
+316,cryptosporidiosis,Rare infectious disease,0
+317,Alkaptonuria,Rare inborn errors of metabolism,0
+318,Cystic fibrosis,Rare respiratory disease,0
+319,bacterial corneal ulcers,NA: bacterial corneal ulcers,1
+320,Ovarian cancer,Rare neoplastic disease,0
+321,Acute myeloid leukaemia,Rare neoplastic disease,0
+322,Acute myeloid leukaemia + Chronic myeloid leukaemia,Rare neoplastic disease,0
+323,non-small cell lung cancer,NA: non-small cell lung cancer,1
+324,Gastric cancer + Soft tissue sarcoma + Pancreatic cancer + Ovarian cancer,Rare neoplastic disease + NA: Pancreatic cancer,1
+325,Primary myelofibrosis + Post essential thrombocythemia myelofibrosis,Rare neoplastic disease + NA: Post essential thrombocythemia myelofibrosis,1
+326,Glioma + Multiple myeloma + Hodgkin's lymphoma + Cutaneous T-cell lymphoma,Rare neoplastic disease + NA: Hodgkin's lymphoma,1
+327,pediatric hyperparathyroidism,NA: pediatric hyperparathyroidism,1
+328,Renal cell carcinoma,Rare neoplastic disease,0
+329,Hyperphenylalaninemia,Rare inborn errors of metabolism,0
+330,Mesothelioma,Rare neoplastic disease,0
+331,pneumocystosis,Rare infectious disease,0
+332,leukapheresis,NA: leukapheresis,1
+333,Mucopolysaccharidosis VI,NA: Mucopolysaccharidosis VI,1
+334,hairy cell leukemia,Rare neoplastic disease,0
+335,neonatal seizures,NA: neonatal seizures,1
+336,renal replacement solution,NA: renal replacement solution,1
+337,Sjogren's syndrome,NA: Sjogren's syndrome,1
+338,Lung disorder + Idiopathic pulmonary fibrosis,NA: Lung disorder + Rare respiratory disease,1
+339,Mantle cell lymphoma,Rare neoplastic disease,0
+340,Acute respiratory distress syndrome,Rare respiratory disease,0
+341,Glioma,Rare neoplastic disease,0
+342,Systemic sclerosis + Primary myelofibrosis + Multiple myeloma,Rare systemic or rheumatologic disease + Rare neoplastic disease,0
+343,Chronic myeloid leukaemia + Acute lymphoblastic leukaemia,Rare neoplastic disease,0
+344,Cholangiocarcinoma,Rare neoplastic disease,0
+345,invasive aspergillosis,NA: invasive aspergillosis,1
+346,thyroid blocking agent in pediatric patients exposed to radiactive iodine,NA: thyroid blocking agent in pediatric patients exposed to radiactive iodine,1
+347,metastatic RET fusion-positive solid tumors,NA: metastatic RET fusion-positive solid tumors,1
+348,Cerebral cavernous malformation + Retinopathy of prematurity + Von Hippel-Lindau disease + Soft tissue sarcoma,Rare developmental defect during embryogenesis + Rare ophthalmic disorder + Rare neoplastic disease,0
+349,malaria,Rare infectious disease,0
+350,Acute myeloid leukaemia,Rare neoplastic disease,0
+351,Hereditary haemorrhagic telangiectasia,NA: Hereditary haemorrhagic telangiectasia,1
+352,Glioma,Rare neoplastic disease,0
+353,non-small cell lung cancer,NA: non-small cell lung cancer,1
+354,Acute myeloid leukaemia,Rare neoplastic disease,0
+355,Hepatitis E + Lassa fever + Haemorrhagic fever with renal syndrome,NA: Hepatitis E + Rare infectious disease + NA: Haemorrhagic fever with renal syndrome,2
+356,Medium-chain acyl-coenzyme A dehydrogenase deficiency,NA: Medium-chain acyl-coenzyme A dehydrogenase deficiency,1
+357,disseminated Mycobacterium avium complex disease,NA: disseminated Mycobacterium avium complex disease,1
+358,Frontotemporal Dementia,Rare neurologic disease,0
+359,tuberculosis,Rare infectious disease,0
+360,Tuberculosis,Rare infectious disease,0
+361,hepatic encephalopathy,NA: hepatic encephalopathy,1
+362,traumatic spinal cord injury,NA: traumatic spinal cord injury,1
+363,Systemic sclerosis,Rare systemic or rheumatologic disease,0
+364,Spinal muscular atrophy,Rare neurologic disease,0
+365,pediatric homozygous familial hypercholesterolemia,NA: pediatric homozygous familial hypercholesterolemia,1
+366,Ovarian cancer,Rare neoplastic disease,0
+367,Lennox-Gastaut syndrome,Rare neurologic disease,0
+368,Polycythaemia vera,NA: Polycythaemia vera,1
+369,Hyperphenylalaninemia,Rare inborn errors of metabolism,0
+370,idiopathic Parkinson's disease,NA: idiopathic Parkinson's disease,1
+371,Pulmonary arterial hypertension and chronic thromboembolic pulmonary hypertension,NA: Pulmonary arterial hypertension and chronic thromboembolic pulmonary hypertension,1
+372,Myelofibrosis + Glioma + Plasma cell myeloma + Acute myeloid leukaemia,Rare neoplastic disease + NA: Plasma cell myeloma,1
+373,Medullary thyroid cancer,NA: Medullary thyroid cancer,1
+374,non-small cell lung cancer,NA: non-small cell lung cancer,1
+375,Mitochondrial encephalomyopathy + Congenital diaphragmatic hernia,Rare neurologic disease + Rare developmental defect during embryogenesis,0
+376,suspected cyanide poisoning,NA: suspected cyanide poisoning,1
+377,Narcolepsy,Rare neurologic disease,0
+378,Amyotrophic lateral sclerosis + Wolfram syndrome,Rare neurologic disease + Rare endocrine disease,0
+379,Calciphylaxis,Rare systemic or rheumatologic disease,0
+380,chronic hepatitis C virus infection,NA: chronic hepatitis C virus infection,1
+381,Narcolepsy,Rare neurologic disease,0
+382,Follicular thyroid cancer + Papillary thyroid cancer + Hepatocellular carcinoma + Renal cell carcinoma,NA: Follicular thyroid cancer + NA: Papillary thyroid cancer + Rare neoplastic disease,2
+383,ventricular arrhythmias in pediatric patients,NA: ventricular arrhythmias in pediatric patients,1
+384,non-small cell lung cancer,NA: non-small cell lung cancer,1
+385,malignant pleural effusion,NA: malignant pleural effusion,1
+386,Hyperoxaluria,Rare renal disease,0
+387,lead poisoning in children,NA: lead poisoning in children,1
+388,severe dermal burns,NA: severe dermal burns,1
+389,Pulmonary arterial hypertension,Rare respiratory disease,0
+390,pulmonary arterial hypertension,Rare respiratory disease,0
+391,Familial amyloid polyneuropathy,NA: Familial amyloid polyneuropathy,1
+392,malaria,Rare infectious disease,0
+393,non-small cell lung cancer,NA: non-small cell lung cancer,1
+394,Smith-Magenis syndrome,Rare developmental defect during embryogenesis,0
+395,Diffuse large B-cell lymphoma,Rare neoplastic disease,0
+396,Cow pox,NA: Cow pox,1
+397,Glioma + Neuroblastoma,Rare neoplastic disease,0
+398,lymphocytic leukemia,Rare neoplastic disease,0
+399,Aicardi-Goutières syndrome,Rare neurologic disease,0
+400,non-small cell lung cancer,NA: non-small cell lung cancer,1
+401,Huntington's Disease,NA: Huntington's Disease,1
+402,Hereditary haemorrhagic telangiectasia + Multiple myeloma + Type 2 lepra reaction,NA: Hereditary haemorrhagic telangiectasia + Rare neoplastic disease + NA: Type 2 lepra reaction,2
+403,Conditioning treatment prior to haematopoietic progenitor cell transplantation,NA: Conditioning treatment prior to haematopoietic progenitor cell transplantation,1
+404,giardiasis,NA: giardiasis,1
+405,cystinuria,Rare renal disease,0
+406,Cystic fibrosis,Rare respiratory disease,0
+407,autosomal dominant polycystic kidney disease,Rare renal disease,0
+408,Neonatal seizure,NA: Neonatal seizure,1
+409,metastatic carcinoma of the breast,NA: metastatic carcinoma of the breast,1
+410,Ovarian cancer + Soft tissue sarcoma,Rare neoplastic disease,0
+411,Glioma,Rare neoplastic disease,0
+412,Conditioning treatment prior to haematopoietic progenitor cell transplantation,NA: Conditioning treatment prior to haematopoietic progenitor cell transplantation,1
+413,Systemic sclerosis + Pulmonary arterial hypertension + Idiopathic pulmonary fibrosis + Chronic thromboembolic pulmonary hypertension,Rare systemic or rheumatologic disease + Rare respiratory disease,0
+414,fascioliasis,NA: fascioliasis,1
+415,Wilson’s disease,NA: Wilson’s disease,1
+416,gastric cancer,Rare neoplastic disease,0
+417,Carnitine palmitoyltransferase deficiency + Fatty acid oxidation disorder + McArdle's disease,NA: Carnitine palmitoyltransferase deficiency + Rare inborn errors of metabolism + NA: McArdle's disease,2
+418,Pneumocystis carinii pneumonia in AIDS,NA: Pneumocystis carinii pneumonia in AIDS,1
+419,During ophthalmic surgery,NA: During ophthalmic surgery,1
+420,breast cancer patients with brain metastases,NA: breast cancer patients with brain metastases,1
+421,lymphoma,Rare neoplastic disease,0
+422,juvenile idiopathic arthritis,Rare systemic or rheumatologic disease,0
+423,Oroticaciduria congenital + Overdose,NA: Oroticaciduria congenital + NA: Overdose,2
+424,polycystic ovarian disease,NA: polycystic ovarian disease,1
+425,primary biliary cirrhosis,NA: primary biliary cirrhosis,1
+426,Huntington’s,NA: Huntington’s,1
+427,carcinoma in situ of the urinary bladder,NA: carcinoma in situ of the urinary bladder,1
+428,medullary thyroid carcinoma,Rare neoplastic disease,0
+429,cystic fibrosis,Rare respiratory disease,0
+430,Erdheim-Chester disease,Rare systemic or rheumatologic disease,0
+431,Mantle cell lymphoma + Multiple myeloma + Diffuse large B-cell lymphoma + Acute myeloid leukaemia + Chronic lymphocytic leukaemia,Rare neoplastic disease,0
+432,West syndrome,NA: West syndrome,1
+433,acute lymphoblastic leukaemia,Rare neoplastic disease,0
+434,Multiple myeloma + Cutaneous T-cell lymphoma,Rare neoplastic disease,0
+435,Marginal zone lymphoma + Lymphoplasmacytoid lymphoma/immunocytoma refractory,Rare neoplastic disease + NA: Lymphoplasmacytoid lymphoma/immunocytoma refractory,1
+436,AIDS,Rare immune disease,0
+437,Acute myeloid leukaemia,Rare neoplastic disease,0
+438,facioscapulohumeral muscular dystrophy + Wilson’s disease,NA: facioscapulohumeral muscular dystrophy + NA: Wilson’s disease,2
+439,glioma,Rare neoplastic disease,0

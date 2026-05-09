@@ -1,0 +1,453 @@
+drug;name_length;suggested_class;manual_classification;review_note
++ potassium + and magnesium;27;UNKNOWN;N;CHECK: Manual review needed
+adamts13 + recombinant-krhn;27;UNKNOWN;N;CHECK: Manual review needed
+alglucerase injection;21;UNKNOWN;N;CHECK: Manual review needed
+allogeneic processed thymus tissue-agdc;39;UNKNOWN;N;CHECK: Manual review needed
+amphotericin b lipid complex;28;UNKNOWN;Y;CHECK: Manual review needed
+anacaulase-bcdb;15;UNKNOWN;N;CHECK: Manual review needed
+anthrax vaccine adsorbed;24;UNKNOWN;N;CHECK: Manual review needed
+anthrax vaccine adsorbed + adjuvanted;37;UNKNOWN;N;CHECK: Manual review needed
+anti-inhibitor coagulant complex;32;UNKNOWN;N;CHECK: Manual review needed
+antithrombin iii;16;UNKNOWN;N;CHECK: Manual review needed
+artemether/lumefantrine;23;UNKNOWN;Y;CHECK: Manual review needed
+asparaginase erwinia chrysanthemi -rywn;39;UNKNOWN;N;CHECK: Manual review needed
+atidarsagene autotemcel;23;UNKNOWN;N;CHECK: Manual review needed
+atoltivimab + maftivimab + and odesivimab-ebgn;46;UNKNOWN;N;CHECK: Manual review needed
+avalglucosidase alfa-ngpt;25;UNKNOWN;N;CHECK: Manual review needed
+"avutometinib; defactinib";24;UNKNOWN;Y;CHECK: Manual review needed
+axatilimab-csfr;15;UNKNOWN;N;CHECK: Manual review needed
+belantamab mafodotin;20;UNKNOWN;N;CHECK: Manual review needed
+belantamab mafodotin-blmf;25;UNKNOWN;N;CHECK: Manual review needed
+belumosudil mesilate;20;UNKNOWN;Y;CHECK: Manual review needed
+bendamustine for 50 ml admixture;32;UNKNOWN;Y;CHECK: Manual review needed
+bendamustine for 50ml admixture;31;UNKNOWN;N;CHECK: Manual review needed
+benzoate and phenylacetate;26;UNKNOWN;Y;CHECK: Manual review needed
+benzoate/phenylacetate;22;UNKNOWN;N;CHECK: Manual review needed
+beremagene geperpavec;21;UNKNOWN;N;CHECK: Manual review needed
+beremagene geperpavec-svdt;26;UNKNOWN;N;CHECK: Manual review needed
+betibeglogene autotemcel;24;UNKNOWN;N;CHECK: Manual review needed
+bicarbonate infusate;20;UNKNOWN;Y;CHECK: Manual review needed
+birch triterpenes;17;UNKNOWN;Y;CHECK: Manual review needed
+botulinum toxin type a;22;UNKNOWN;N;CHECK: Manual review needed
+botulinum toxin type b;22;UNKNOWN;N;CHECK: Manual review needed
+botulism antitoxin heptavalent;30;UNKNOWN;N;CHECK: Manual review needed
+brentuximab vedotin;19;UNKNOWN;N;CHECK: Manual review needed
+brilliant blue g ophthalmic solution;36;UNKNOWN;Y;CHECK: Manual review needed
+budesonide + micronised;23;UNKNOWN;Y;CHECK: Manual review needed
+buprenorphine in combination with naloxone;42;UNKNOWN;Y;CHECK: Manual review needed
+c1 esterase inhibitor;21;UNKNOWN;N;CHECK: Manual review needed
+c1 esterase inhibitor subcutaneous;34;UNKNOWN;N;CHECK: Manual review needed
+c1-esterase inhibitor;21;UNKNOWN;N;CHECK: Manual review needed
+calcitonin-human for injection;30;UNKNOWN;N;CHECK: Manual review needed
+calcium + magnesium + potassium + and  oxybates;47;UNKNOWN;Y;CHECK: Manual review needed
+caplacizumab-yhdp;17;UNKNOWN;N;CHECK: Manual review needed
+cedazuridine and decitabine;27;UNKNOWN;Y;CHECK: Manual review needed
+cenegermin-bkbj;15;UNKNOWN;N;CHECK: Manual review needed
+cipaglucosidase alfa-atga and miglustat;39;UNKNOWN;N;CHECK: Manual review needed
+coccidioidin sd skin test antigen;33;UNKNOWN;N;CHECK: Manual review needed
+colfosceril palmitate + cetyl alcohol + tyloxapol;49;UNKNOWN;Y;CHECK: Manual review needed
+collagenase clostridium histolyticum;36;UNKNOWN;N;CHECK: Manual review needed
+concizumab-mtci;15;UNKNOWN;N;CHECK: Manual review needed
+cromolyn   ophthalmic solution;30;UNKNOWN;Y;CHECK: Manual review needed
+crovalimab-akkz;15;UNKNOWN;N;CHECK: Manual review needed
+cysteamine enteric coated;25;UNKNOWN;Y;CHECK: Manual review needed
+cytarabine liposomal;20;UNKNOWN;Y;CHECK: Manual review needed
+d6-tetrabenazine + deutetrabenazine;35;UNKNOWN;Y;CHECK: Manual review needed
+dabrafenib and trametinib;25;UNKNOWN;Y;CHECK: Manual review needed
+dantrolene  suspension for injection;36;UNKNOWN;Y;CHECK: Manual review needed
+daratumumab and hyaluronidase-fihj;34;UNKNOWN;N;CHECK: Manual review needed
+daunorubicin  liposome injection;32;UNKNOWN;Y;CHECK: Manual review needed
+"daunorubicin ;cytarabine";24;UNKNOWN;Y;CHECK: Manual review needed
+daxibotulinumtoxina-lanm;24;UNKNOWN;N;CHECK: Manual review needed
+delandistrogene moxeparvovec;28;UNKNOWN;N;CHECK: Manual review needed
+denileukin diftitox;19;UNKNOWN;N;CHECK: Manual review needed
+denileukin diftitox-cxdl;24;UNKNOWN;N;CHECK: Manual review needed
+dexamethasone intravitreal implant;34;UNKNOWN;Y;CHECK: Manual review needed
+donislecel-jujn;15;UNKNOWN;N;CHECK: Manual review needed
+"doxecitine;doxribtimine";23;UNKNOWN;Y;CHECK: Manual review needed
+doxorubicin liposome;20;UNKNOWN;Y;CHECK: Manual review needed
+efgartigimod alfa and hyaluronidase-qvfc;40;UNKNOWN;N;CHECK: Manual review needed
+efgartigimod alfa and hyaluronidase-qvfc);41;UNKNOWN;N;CHECK: Manual review needed
+efgartigimod alfa-fcab;22;UNKNOWN;N;CHECK: Manual review needed
+eflornithine  monohydrate;25;UNKNOWN;Y;CHECK: Manual review needed
+"eflornithine ;sulindac";22;UNKNOWN;Y;CHECK: Manual review needed
+eladocagene exuparvovec;23;UNKNOWN;N;CHECK: Manual review needed
+eladocagene exuparvovec-tneq;28;UNKNOWN;N;CHECK: Manual review needed
+elivaldogene autotemcel;23;UNKNOWN;N;CHECK: Manual review needed
+elranatamab-bcmm;16;UNKNOWN;N;CHECK: Manual review needed
+emapalumab-lzsg;15;UNKNOWN;N;CHECK: Manual review needed
+emicizumab-kxwh;15;UNKNOWN;N;CHECK: Manual review needed
+encorafenib + binimetinib;25;UNKNOWN;Y;CHECK: Manual review needed
+epcoritamab-bysp;16;UNKNOWN;N;CHECK: Manual review needed
+ethiodized oil injection;24;UNKNOWN;Y;CHECK: Manual review needed
+etranacogene dezaparvovec;25;UNKNOWN;N;CHECK: Manual review needed
+etranacogene dezaparvovec-drlb;30;UNKNOWN;N;CHECK: Manual review needed
+etuvetidigene autotemcel;24;UNKNOWN;N;CHECK: Manual review needed
+evinacumab-dgnb;15;UNKNOWN;N;CHECK: Manual review needed
+exagamglogene autotemcel;24;UNKNOWN;N;CHECK: Manual review needed
+fam-trastuzumab deruxtecan-nxki;31;UNKNOWN;N;CHECK: Manual review needed
+fecal microbiota + live - jslm;30;UNKNOWN;N;CHECK: Manual review needed
+fecal microbiota spores + live-brpk;35;UNKNOWN;N;CHECK: Manual review needed
+fenfluramine hci;16;UNKNOWN;Y;CHECK: Manual review needed
+fidanacogene elaparvovec-dzkt;29;UNKNOWN;N;CHECK: Manual review needed
+fish oil triglycerides;22;UNKNOWN;N;CHECK: Manual review needed
+fludarabine  oral tablets;25;UNKNOWN;Y;CHECK: Manual review needed
+follitropin alfa + recombinant;30;UNKNOWN;N;CHECK: Manual review needed
+foscarbidopa and foslevodopa;28;UNKNOWN;Y;CHECK: Manual review needed
+gallium-68 octreotide;21;UNKNOWN;Y;CHECK: Manual review needed
+ganciclovir intravitreal implant;32;UNKNOWN;Y;CHECK: Manual review needed
+garadacimab-gxii;16;UNKNOWN;N;CHECK: Manual review needed
+gemtuzumab ozogamicin;21;UNKNOWN;N;CHECK: Manual review needed
+givinostat  monohydrate;23;UNKNOWN;Y;CHECK: Manual review needed
+human fibrinogen concentrate + pasteurized;42;UNKNOWN;N;CHECK: Manual review needed
+human heterologous liver cells;30;UNKNOWN;N;CHECK: Manual review needed
+ibritumomab tiuxetan;20;UNKNOWN;N;CHECK: Manual review needed
+idarubicin hcl for injection;28;UNKNOWN;Y;CHECK: Manual review needed
+"idebenone;titanium dioxide";26;UNKNOWN;Y;CHECK: Manual review needed
+iloprost inhalation solution;28;UNKNOWN;Y;CHECK: Manual review needed
+inebilizumab-cdon;17;UNKNOWN;N;CHECK: Manual review needed
+inotuzumab ozogamicin;21;UNKNOWN;N;CHECK: Manual review needed
+intravenous carbamazepine;25;UNKNOWN;Y;CHECK: Manual review needed
+iptacopan  monohydrate;22;UNKNOWN;Y;CHECK: Manual review needed
+irinotecan liposome injection;29;UNKNOWN;Y;CHECK: Manual review needed
+iron-hexacyanoferrate;21;UNKNOWN;Y;CHECK: Manual review needed
+isatuximab-irfc;15;UNKNOWN;N;CHECK: Manual review needed
+"ivacaftor;tezacaftor;elexacaftor";32;UNKNOWN;Y;CHECK: Manual review needed
+lanadelumab-flyo;16;UNKNOWN;N;CHECK: Manual review needed
+ledipasvir/sofosbuvir;21;UNKNOWN;Y;CHECK: Manual review needed
+lenadogene nolparvovec;22;UNKNOWN;N;CHECK: Manual review needed
+linvoseltamab-gcpt;18;UNKNOWN;N;CHECK: Manual review needed
+liothyronine  injection;23;UNKNOWN;Y;CHECK: Manual review needed
+lonapegsomatropin-tcgd;22;UNKNOWN;N;CHECK: Manual review needed
+loncastuximab tesirine-lpyl;27;UNKNOWN;N;CHECK: Manual review needed
+lovotibeglogene autotemcel;26;UNKNOWN;N;CHECK: Manual review needed
+lumacaftor/ivacaftor;20;UNKNOWN;Y;CHECK: Manual review needed
+luspatercept-aamt;17;UNKNOWN;N;CHECK: Manual review needed
+lutetium  oxodotreotide;23;UNKNOWN;Y;CHECK: Manual review needed
+macitentan and tadalafil;24;UNKNOWN;Y;CHECK: Manual review needed
+mafenide  solution;18;UNKNOWN;Y;CHECK: Manual review needed
+marstacimab-hncq;16;UNKNOWN;N;CHECK: Manual review needed
+mecasermin rinfabate;20;UNKNOWN;N;CHECK: Manual review needed
+mercaptopurine oral solution;28;UNKNOWN;Y;CHECK: Manual review needed
+"mesalamine; 5-aminosalicylic acid";33;UNKNOWN;Y;CHECK: Manual review needed
+methotrexate oral solution;26;UNKNOWN;Y;CHECK: Manual review needed
+mirvetuximab soravtansine;25;UNKNOWN;N;CHECK: Manual review needed
+mirvetuximab soravtansine-gynx;30;UNKNOWN;N;CHECK: Manual review needed
+morphine  concentrate;21;UNKNOWN;Y;CHECK: Manual review needed
+mosunetuzumab-axgb;18;UNKNOWN;N;CHECK: Manual review needed
+mozafancogene autotemcel;24;UNKNOWN;N;CHECK: Manual review needed
+multi-vitamin infusion without vitamin k;40;UNKNOWN;N;CHECK: Manual review needed
+narsoplimab-wuug;16;UNKNOWN;N;CHECK: Manual review needed
+nipocalimab-aahu;16;UNKNOWN;N;CHECK: Manual review needed
+nitrite and  thiosulfate;24;UNKNOWN;Y;CHECK: Manual review needed
+nivolumab and relatlimab-rmbw;29;UNKNOWN;N;CHECK: Manual review needed
+olipudase alfa-rpcp;19;UNKNOWN;N;CHECK: Manual review needed
+omidubicel-onlv;15;UNKNOWN;N;CHECK: Manual review needed
+onasemnogene abeparvovec;24;UNKNOWN;N;CHECK: Manual review needed
+onasemnogene abeparvovec-brve;29;UNKNOWN;N;CHECK: Manual review needed
+palopegteriparatide;19;UNKNOWN;N;CHECK: Manual review needed
+parathyroid hormone;19;UNKNOWN;N;CHECK: Manual review needed
+pegademase bovine;17;UNKNOWN;N;CHECK: Manual review needed
+pegzilarginase-nbln;19;UNKNOWN;N;CHECK: Manual review needed
+penpulimab-kcqx;15;UNKNOWN;N;CHECK: Manual review needed
+pentosan polysulfate;20;UNKNOWN;Y;CHECK: Manual review needed
+pentostatin for injection;25;UNKNOWN;Y;CHECK: Manual review needed
+phenylbutyrate and taurursodiol;31;UNKNOWN;Y;CHECK: Manual review needed
+"phenylbutyrate;ursodoxicoltaurine";33;UNKNOWN;Y;CHECK: Manual review needed
+plasminogen + human-tvmh;24;UNKNOWN;N;CHECK: Manual review needed
+polatuzumab vedotin;19;UNKNOWN;N;CHECK: Manual review needed
+polatuzumab vedotin-piiq;24;UNKNOWN;N;CHECK: Manual review needed
+polifeprosan 20 with carmustine;31;UNKNOWN;Y;CHECK: Manual review needed
+prademagene zamikeracel;23;UNKNOWN;N;CHECK: Manual review needed
+prothrombin complex concentrate;31;UNKNOWN;N;CHECK: Manual review needed
+prothrombin complex concentrate + human-lans;44;UNKNOWN;N;CHECK: Manual review needed
+pulmonary surfactant replacement + porcine;42;UNKNOWN;N;CHECK: Manual review needed
+ravulizumab-cwvz;16;UNKNOWN;N;CHECK: Manual review needed
+recombinant human antithrombin;30;UNKNOWN;N;CHECK: Manual review needed
+recombinant human luteinizing hormone;37;UNKNOWN;N;CHECK: Manual review needed
+remestemcel-l-rknd;18;UNKNOWN;N;CHECK: Manual review needed
+resminostat mesilate;20;UNKNOWN;Y;CHECK: Manual review needed
+retifanlimab-dlwr;17;UNKNOWN;N;CHECK: Manual review needed
+revakinagene taroretcel-lwey;28;UNKNOWN;N;CHECK: Manual review needed
+riboflavin ophthalmic solution & ultraviolet a;46;UNKNOWN;Y;CHECK: Manual review needed
+rifampin + isoniazid + pyrazinamide;35;UNKNOWN;Y;CHECK: Manual review needed
+riluzole oral film;18;UNKNOWN;Y;CHECK: Manual review needed
+riluzole oral suspension;24;UNKNOWN;Y;CHECK: Manual review needed
+rozanolixizumab-noli;20;UNKNOWN;N;CHECK: Manual review needed
+satralizumab-mwge;17;UNKNOWN;N;CHECK: Manual review needed
+satumomab pendetide;19;UNKNOWN;N;CHECK: Manual review needed
+somatrogon-ghla;15;UNKNOWN;N;CHECK: Manual review needed
+somatropin  injection;21;UNKNOWN;N;CHECK: Manual review needed
+somatropin [rdna];17;UNKNOWN;N;CHECK: Manual review needed
+somatropin for injection;24;UNKNOWN;N;CHECK: Manual review needed
+sotatercept-csrk;16;UNKNOWN;N;CHECK: Manual review needed
+spesolimab-sbzo;15;UNKNOWN;N;CHECK: Manual review needed
+sutimlimab-jome;15;UNKNOWN;N;CHECK: Manual review needed
+synthetic human secretin;24;UNKNOWN;N;CHECK: Manual review needed
+tafasitamab-cxix;16;UNKNOWN;N;CHECK: Manual review needed
+tagraxofusp-erzs;16;UNKNOWN;N;CHECK: Manual review needed
+talimogene laherparepvec;24;UNKNOWN;N;CHECK: Manual review needed
+talquetamab-tgvs;16;UNKNOWN;N;CHECK: Manual review needed
+tarlatamab-dlle;15;UNKNOWN;N;CHECK: Manual review needed
+tebentafusp-tebn;16;UNKNOWN;N;CHECK: Manual review needed
+teclistamab-cqyv;16;UNKNOWN;N;CHECK: Manual review needed
+teduglutide [rdna origin];25;UNKNOWN;N;CHECK: Manual review needed
+teplizumab-mzwv;15;UNKNOWN;N;CHECK: Manual review needed
+"tezacaftor/ivacaftor; ivacaftor";31;UNKNOWN;Y;CHECK: Manual review needed
+thyrotropin alpha;17;UNKNOWN;N;CHECK: Manual review needed
+tisagenlecleucel-t;18;UNKNOWN;N;CHECK: Manual review needed
+tislelizumab-jsgr;17;UNKNOWN;N;CHECK: Manual review needed
+tobramycin for inhalation;25;UNKNOWN;Y;CHECK: Manual review needed
+toripalimab-tpzi;16;UNKNOWN;N;CHECK: Manual review needed
+trametinib and dabrafenib;25;UNKNOWN;Y;CHECK: Manual review needed
+tremelimumab-actl;17;UNKNOWN;N;CHECK: Manual review needed
+treprostinil inhalation powder;30;UNKNOWN;Y;CHECK: Manual review needed
+treprostinil inhalation solution;32;UNKNOWN;Y;CHECK: Manual review needed
+trifluridine/tipiracil;22;UNKNOWN;Y;CHECK: Manual review needed
+valoctocogene roxaparvovec;26;UNKNOWN;N;CHECK: Manual review needed
+valoctocogene roxaparvovec-rvox;31;UNKNOWN;N;CHECK: Manual review needed
+vanzacaftor + tezacaftor + and deutivacaftor;44;UNKNOWN;Y;CHECK: Manual review needed
+velmanase alfa-tycv;19;UNKNOWN;N;CHECK: Manual review needed
+vestronidase alfa-vjbk;22;UNKNOWN;N;CHECK: Manual review needed
+vincristine  liposome injection;31;UNKNOWN;Y;CHECK: Manual review needed
+voretigene neparvovec;21;UNKNOWN;N;CHECK: Manual review needed
+voretigene neparvovec-rzyl;26;UNKNOWN;N;CHECK: Manual review needed
+zanidatamab-hrii;16;UNKNOWN;N;CHECK: Manual review needed
+zenocutuzumab-zbco;18;UNKNOWN;N;CHECK: Manual review needed
+zolbetuximab-clzb;17;UNKNOWN;N;CHECK: Manual review needed
+zopapogene imadenovec-drba;26;UNKNOWN;N;CHECK: Manual review needed
+acetylcysteine effervescent tablets for oral solution;53;biologic_long;N;CHECK: Long name (likely biologic)
+adenovirus-mediated herpes simplex virus-thymidine kinase gene;62;biologic_long;N;CHECK: Long name (likely biologic)
+allogeneic cultured keratinocytes and dermal fibroblasts in murine collagen-dsat;80;biologic_long;N;CHECK: Long name (likely biologic)
+"allogeneic umbilical cord-derived cd34- cells + non-expanded;dorocubicel";72;biologic_long;N;CHECK: Long name (likely biologic)
+autologous cd34+ enriched cell fraction that contains cd34+ cells transduced with retroviral vector that encodes for the human adenosine deaminase  cdna sequence from human haematopoietic stem/progenitor  cells;210;biologic_long;N;CHECK: Long name (likely biologic)
+autologous peripheral blood t cells cd4 and cd8 selected and cd3 and cd28 activated transduced with retroviral vector expressing anti-cd19 cd28/cd3-zeta chimeric antigen receptor and cultured;191;biologic_long;N;CHECK: Long name (likely biologic)
+autologous t cells transduced with lentiviral vector containing a chimeric antigen receptor directed against cd;111;biologic_long;N;CHECK: Long name (likely biologic)
+bictegravir + emtricitabine + and tenofovir alafenamide;55;biologic_long;N;CHECK: Long name (likely biologic)
+buffered intrathecal electrolyte/dextrose injection;51;biologic_long;N;CHECK: Long name (likely biologic)
+citric acid + glucono-delta-lactone and magnesium carbonate;59;biologic_long;N;CHECK: Long name (likely biologic)
+"cytarabine:daunorubicin liposome injection; daunorubicin and cytarabine ; daunorubicin and cytarabine liposome for injection";124;biologic_long;N;CHECK: Long name (likely biologic)
+"deutivacaftor;tezacaftor;vanzacaftor calcium dihydrate";54;biologic_long;N;CHECK: Long name (likely biologic)
+diazepam viscous solution for rectal administration;51;biologic_long;N;CHECK: Long name (likely biologic)
+dry extract from birch bark + extraction solvent n-heptane;58;biologic_long;N;CHECK: Long name (likely biologic)
+"elexacaftor + tezacaftor + and ivacaftor; ivacaftor";51;biologic_long;N;CHECK: Long name (likely biologic)
+gallium [ga-68]-n-[acetyl]-d-phenylalanyl-l-cysteinyl-l-tyrosyl-d-tryptophanyl-l-lysyl-l-threoninyl-l-cysteinyl-l-threonine-cyclicdisulfide;139;biologic_long;N;CHECK: Long name (likely biologic)
+genetically modified autologous cd34+ cell enriched population that contains haematopoietic stem and progenitor cells  transduced ex vivo using a lentiviral vector encoding the human wiskott-aldrich syndrome  gene;213;biologic_long;N;CHECK: Long name (likely biologic)
+glycine + l-alanine + l-arginine + l-aspartic acid + l-cysteine  monohydrate + l-histidine + l-methionine + l-phenylalanine + l-proline + l-serine + l-threonine + l-tryptophan + l-tyrosine + l-glutamic acid + l-lysine monohydrate + taurine;239;biologic_long;N;CHECK: Long name (likely biologic)
+icodextrin 7. with electrolytes peritoneal dialysis solution;60;biologic_long;N;CHECK: Long name (likely biologic)
+japanese encephalitis vaccine + inactivated + adsorbed;54;biologic_long;N;CHECK: Long name (likely biologic)
+n-acetylgalactosamine-4-sulfatase + recombinant human;53;biologic_long;N;CHECK: Long name (likely biologic)
+repository corticotropin or adrenocorticotropic hormone;55;biologic_long;N;CHECK: Long name (likely biologic)
+riboflavin ophthalmic solution ultraviolet-a  irradiation;57;biologic_long;N;CHECK: Long name (likely biologic)
+"sinapultide;dipalmitoylphosphatidylcholine;palmitoyl-oleoyl phosphatidylglycerol;palmitic acid";94;biologic_long;N;CHECK: Long name (likely biologic)
+technetium tc99m sulfur colloid injection + lyophilized;55;biologic_long;N;CHECK: Long name (likely biologic)
+alpha1-proteinase inhibitor;27;biologic_protein;N;Auto: protein keyword
+antihemophilic factor;21;biologic_protein;N;Auto: protein keyword
+antihemophilic factor + fc fusion protein;41;biologic_protein;N;Auto: protein keyword
+antihemophilic factor + fc-vwf-xten fusion protein-ehtl;55;biologic_protein;N;Auto: protein keyword
+antihemophilic factor + porcine sequence;40;biologic_protein;N;Auto: protein keyword
+antihemophilic factor/von willebrand factor complex + dried + pasteurized;73;biologic_protein;N;Auto: protein keyword
+antivenin + crotalidae polyvalent immune fab;44;biologic_protein;N;Auto: protein keyword
+centruroides immune f;21;biologic_protein;N;Auto: protein keyword
+coagulation factor ix;21;biologic_protein;N;Auto: protein keyword
+coagulation factor ix + fc fusion protein;41;biologic_protein;N;Auto: protein keyword
+coagulation factor ix + glycopegylated;38;biologic_protein;N;Auto: protein keyword
+coagulation factor viia;23;biologic_protein;N;Auto: protein keyword
+coagulation factor x;20;biologic_protein;N;Auto: protein keyword
+coagulation factor xa + inactivated-zhzo;40;biologic_protein;N;Auto: protein keyword
+coagulation factor xiii a-subunit;33;biologic_protein;N;Auto: protein keyword
+crotalidae immune f2;20;biologic_protein;N;Auto: protein keyword
+digoxin immune fab;18;biologic_protein;N;Auto: protein keyword
+factor xiii concentrate;23;biologic_protein;N;Auto: protein keyword
+human coagulation factor x;26;biologic_protein;N;Auto: protein keyword
+immune globulin infusion;24;biologic_protein;N;Auto: protein keyword
+immune globulin intravenous;27;biologic_protein;N;Auto: protein keyword
+immune globulin intravenous + human;35;biologic_protein;N;Auto: protein keyword
+immune globulin subcutaneous + liquid;37;biologic_protein;N;Auto: protein keyword
+interferon beta-1a;18;biologic_protein;N;Auto: protein keyword
+interferon beta-1b;18;biologic_protein;N;Auto: protein keyword
+interferon gamma 1-b;20;biologic_protein;N;Auto: protein keyword
+interferon gamma-1b;19;biologic_protein;N;Auto: protein keyword
+paclitaxel protein-bound particles;34;biologic_protein;N;Auto: protein keyword
+peginterferon alfa-2b;21;biologic_protein;N;Auto: protein keyword
+protein c concentrate;21;biologic_protein;N;Auto: protein keyword
+recombinant fusion protein linking coagulation factor ix with albumin;69;biologic_protein;N;Auto: protein keyword
+recombinant human nerve growth factor;37;biologic_protein;N;Auto: protein keyword
+recombinant von willebrand factor;33;biologic_protein;N;Auto: protein keyword
+rho  immune globulin intravenous;32;biologic_protein;N;Auto: protein keyword
+ropeginterferon alfa-2b-njft;28;biologic_protein;N;Auto: protein keyword
+sirolimus protein-bound particles for injectable suspension;59;biologic_protein;N;Auto: protein keyword
+vaccinia immune globulin  intravenous;37;biologic_protein;N;Auto: protein keyword
+von willebrand factor;21;biologic_protein;N;Auto: protein keyword
+von willebrand factor/coagulation factor viii complex;53;biologic_protein;N;Auto: protein keyword
+abatacept;9;biologic_suffix;N;Auto: biologic suffix
+adalimumab;10;biologic_suffix;N;Auto: biologic suffix
+afamitresgene autoleucel;24;biologic_suffix;N;Auto: biologic suffix
+aflibercept;11;biologic_suffix;N;Auto: biologic suffix
+agalsidase beta;15;biologic_suffix;N;Auto: biologic suffix
+albutrepenonacog alfa;21;biologic_suffix;N;Auto: biologic suffix
+aldesleukin;11;biologic_suffix;N;Auto: biologic suffix
+alemtuzumab;11;biologic_suffix;N;Auto: biologic suffix
+alirocumab;10;biologic_suffix;N;Auto: biologic suffix
+alpha-1-antitrypsin;19;biologic_suffix;N;Auto: biologic suffix
+anakinra;8;biologic_suffix;N;Auto: biologic suffix
+anthrax immune globulin;23;biologic_suffix;N;Auto: biologic suffix
+asfotase alfa;13;biologic_suffix;N;Auto: biologic suffix
+asparaginase;12;biologic_suffix;N;Auto: biologic suffix
+atezolizumab;12;biologic_suffix;N;Auto: biologic suffix
+atezolizumab + bevacizumab;26;biologic_suffix;N;Auto: biologic suffix
+avelumab;8;biologic_suffix;N;Auto: biologic suffix
+axicabtagene ciloleucel;23;biologic_suffix;N;Auto: biologic suffix
+basiliximab;11;biologic_suffix;N;Auto: biologic suffix
+begelomab;9;biologic_suffix;N;Auto: biologic suffix
+belatacept;10;biologic_suffix;N;Auto: biologic suffix
+benralizumab;12;biologic_suffix;N;Auto: biologic suffix
+beractant;9;biologic_suffix;N;Auto: biologic suffix
+bevacizumab;11;biologic_suffix;N;Auto: biologic suffix
+blinatumomab;12;biologic_suffix;N;Auto: biologic suffix
+botulism immune globulin;24;biologic_suffix;N;Auto: biologic suffix
+brexucabtagene autoleucel;25;biologic_suffix;N;Auto: biologic suffix
+burosumab;9;biologic_suffix;N;Auto: biologic suffix
+calfactant;10;biologic_suffix;N;Auto: biologic suffix
+canakinumab;11;biologic_suffix;N;Auto: biologic suffix
+caplacizumab;12;biologic_suffix;N;Auto: biologic suffix
+casimersen;10;biologic_suffix;N;Auto: biologic suffix
+cerliponase alfa;16;biologic_suffix;N;Auto: biologic suffix
+cetuximab;9;biologic_suffix;N;Auto: biologic suffix
+ciltacabtagene autoleucel;25;biologic_suffix;N;Auto: biologic suffix
+combination of nivolumab and ipilimumab;39;biologic_suffix;N;Auto: biologic suffix
+crizanlizumab;13;biologic_suffix;N;Auto: biologic suffix
+cytomegalovirus immune globulin;31;biologic_suffix;N;Auto: biologic suffix
+daratumumab;11;biologic_suffix;N;Auto: biologic suffix
+denosumab;9;biologic_suffix;N;Auto: biologic suffix
+dinutuximab;11;biologic_suffix;N;Auto: biologic suffix
+dinutuximab beta;16;biologic_suffix;N;Auto: biologic suffix
+dornase alfa;12;biologic_suffix;N;Auto: biologic suffix
+dupilumab;9;biologic_suffix;N;Auto: biologic suffix
+durvalumab;10;biologic_suffix;N;Auto: biologic suffix
+eculizumab;10;biologic_suffix;N;Auto: biologic suffix
+efanesoctocog alfa;18;biologic_suffix;N;Auto: biologic suffix
+efgartigimod alfa;17;biologic_suffix;N;Auto: biologic suffix
+eftrenonacog alfa;17;biologic_suffix;N;Auto: biologic suffix
+elosulfase alfa;15;biologic_suffix;N;Auto: biologic suffix
+elotuzumab;10;biologic_suffix;N;Auto: biologic suffix
+emapalumab;10;biologic_suffix;N;Auto: biologic suffix
+eplontersen;11;biologic_suffix;N;Auto: biologic suffix
+etanercept;10;biologic_suffix;N;Auto: biologic suffix
+eteplirsen;10;biologic_suffix;N;Auto: biologic suffix
+evolocumab;10;biologic_suffix;N;Auto: biologic suffix
+filgrastim;10;biologic_suffix;N;Auto: biologic suffix
+golimumab;9;biologic_suffix;N;Auto: biologic suffix
+golodirsen;10;biologic_suffix;N;Auto: biologic suffix
+hepatitis b immune globulin;27;biologic_suffix;N;Auto: biologic suffix
+ibalizumab;10;biologic_suffix;N;Auto: biologic suffix
+idarucizumab;12;biologic_suffix;N;Auto: biologic suffix
+idecabtagene vicleucel;22;biologic_suffix;N;Auto: biologic suffix
+idursulfase;11;biologic_suffix;N;Auto: biologic suffix
+imiglucerase;12;biologic_suffix;N;Auto: biologic suffix
+imlifidase;10;biologic_suffix;N;Auto: biologic suffix
+immune globulin;15;biologic_suffix;N;Auto: biologic suffix
+immune globulin infusion   with recombinant human hyaluronidase;63;biologic_suffix;N;Auto: biologic suffix
+inebilizumab;12;biologic_suffix;N;Auto: biologic suffix
+infliximab;10;biologic_suffix;N;Auto: biologic suffix
+inotersen;9;biologic_suffix;N;Auto: biologic suffix
+iodine  omburtamab;18;biologic_suffix;N;Auto: biologic suffix
+ipilimumab;10;biologic_suffix;N;Auto: biologic suffix
+lanadelumab;11;biologic_suffix;N;Auto: biologic suffix
+laronidase;10;biologic_suffix;N;Auto: biologic suffix
+lifileucel;10;biologic_suffix;N;Auto: biologic suffix
+lisocabtagene maraleucel;24;biologic_suffix;N;Auto: biologic suffix
+lonapegsomatropin;17;biologic_suffix;N;Auto: biologic suffix
+luspatercept;12;biologic_suffix;N;Auto: biologic suffix
+mepolizumab;11;biologic_suffix;N;Auto: biologic suffix
+mogamulizumab;13;biologic_suffix;N;Auto: biologic suffix
+mosunetuzumab;13;biologic_suffix;N;Auto: biologic suffix
+necitumumab;11;biologic_suffix;N;Auto: biologic suffix
+nimotuzumab;11;biologic_suffix;N;Auto: biologic suffix
+nivolumab;9;biologic_suffix;N;Auto: biologic suffix
+nivolumab and ipilimumab;24;biologic_suffix;N;Auto: biologic suffix
+nusinersen;10;biologic_suffix;N;Auto: biologic suffix
+obecabtagene autoleucel;23;biologic_suffix;N;Auto: biologic suffix
+obiltoxaximab;13;biologic_suffix;N;Auto: biologic suffix
+obinutuzumab;12;biologic_suffix;N;Auto: biologic suffix
+odronextamab;12;biologic_suffix;N;Auto: biologic suffix
+ofatumumab;10;biologic_suffix;N;Auto: biologic suffix
+olaratumab;10;biologic_suffix;N;Auto: biologic suffix
+olipudase alfa;14;biologic_suffix;N;Auto: biologic suffix
+oprelvekin;10;biologic_suffix;N;Auto: biologic suffix
+pegaspargase;12;biologic_suffix;N;Auto: biologic suffix
+pegfilgrastim;13;biologic_suffix;N;Auto: biologic suffix
+pegloticase;11;biologic_suffix;N;Auto: biologic suffix
+pegzilarginase;14;biologic_suffix;N;Auto: biologic suffix
+pembrolizumab;13;biologic_suffix;N;Auto: biologic suffix
+ramucirumab;11;biologic_suffix;N;Auto: biologic suffix
+rasburicase;11;biologic_suffix;N;Auto: biologic suffix
+raxibacumab;11;biologic_suffix;N;Auto: biologic suffix
+"recombinant human acid alpha-glucosidase; alglucosidase alfa";60;biologic_suffix;N;Auto: biologic suffix
+respiratory syncytial virus immune globulin;43;biologic_suffix;N;Auto: biologic suffix
+retifanlimab;12;biologic_suffix;N;Auto: biologic suffix
+rilonacept;10;biologic_suffix;N;Auto: biologic suffix
+rituximab;9;biologic_suffix;N;Auto: biologic suffix
+rituximab and recombinant human hyaluronidase;45;biologic_suffix;N;Auto: biologic suffix
+romiplostim;11;biologic_suffix;N;Auto: biologic suffix
+rozanolixizumab;15;biologic_suffix;N;Auto: biologic suffix
+sacrosidase;11;biologic_suffix;N;Auto: biologic suffix
+sargramostim;12;biologic_suffix;N;Auto: biologic suffix
+satralizumab;12;biologic_suffix;N;Auto: biologic suffix
+sebelipase alfa;15;biologic_suffix;N;Auto: biologic suffix
+serplulimab;11;biologic_suffix;N;Auto: biologic suffix
+siltuximab;10;biologic_suffix;N;Auto: biologic suffix
+somatropin;10;biologic_suffix;N;Auto: biologic suffix
+sotatercept;11;biologic_suffix;N;Auto: biologic suffix
+sutimlimab;10;biologic_suffix;N;Auto: biologic suffix
+tabelecleucel;13;biologic_suffix;N;Auto: biologic suffix
+tafasitamab;11;biologic_suffix;N;Auto: biologic suffix
+taliglucerase alfa;18;biologic_suffix;N;Auto: biologic suffix
+talquetamab;11;biologic_suffix;N;Auto: biologic suffix
+technetium tc 99m tilmanocept;29;biologic_suffix;N;Auto: biologic suffix
+teprotumumab;12;biologic_suffix;N;Auto: biologic suffix
+thyrotropin alfa;16;biologic_suffix;N;Auto: biologic suffix
+tisagenlecleucel;16;biologic_suffix;N;Auto: biologic suffix
+tocilizumab;11;biologic_suffix;N;Auto: biologic suffix
+tofersen;8;biologic_suffix;N;Auto: biologic suffix
+tositumomab and iodine i 131 tositumomab;40;biologic_suffix;N;Auto: biologic suffix
+trastuzumab;11;biologic_suffix;N;Auto: biologic suffix
+varicella zoster immune globulin;32;biologic_suffix;N;Auto: biologic suffix
+velaglucerase-alfa;18;biologic_suffix;N;Auto: biologic suffix
+vestronidase alfa;17;biologic_suffix;N;Auto: biologic suffix
+zanidatamab;11;biologic_suffix;N;Auto: biologic suffix
+zolbetuximab;12;biologic_suffix;N;Auto: biologic suffix
+ansuvimab-zykl;14;small_mol_short;N;CHECK: Short name (likely small mol)
+burosumab-twza;14;small_mol_short;N;CHECK: Short name (likely small mol)
+dasiprotimut-t;14;small_mol_short;N;CHECK: Short name (likely small mol)
+defibrotide;11;small_mol_short;N;CHECK: Short name (likely small mol)
+donidalorsen;12;small_mol_short;N;CHECK: Short name (likely small mol)
+fitusiran;9;small_mol_short;N;CHECK: Short name (likely small mol)
+givosiran;9;small_mol_short;N;CHECK: Short name (likely small mol)
+glatiramer;10;small_mol_short;N;CHECK: Short name (likely small mol)
+inclisiran;10;small_mol_short;N;CHECK: Short name (likely small mol)
+iobenguane i;12;small_mol_short;Y;CHECK: Short name (likely small mol)
+lumasiran;9;small_mol_short;N;CHECK: Short name (likely small mol)
+mecasermin;10;small_mol_short;N;CHECK: Short name (likely small mol)
+meclorethamine;14;small_mol_short;Y;CHECK: Short name (likely small mol)
+metreleptin;11;small_mol_short;N;CHECK: Short name (likely small mol)
+navepegritide;13;small_mol_short;N;CHECK: Short name (likely small mol)
+naxitamab-gqgk;14;small_mol_short;N;CHECK: Short name (likely small mol)
+nedosiran;9;small_mol_short;N;CHECK: Short name (likely small mol)
+olezarsen;9;small_mol_short;N;CHECK: Short name (likely small mol)
+patisiran;9;small_mol_short;N;CHECK: Short name (likely small mol)
+pegcetacoplan;13;small_mol_short;N;CHECK: Short name (likely small mol)
+pegvisomant;11;small_mol_short;N;CHECK: Short name (likely small mol)
+pentastarch;11;small_mol_short;Y;CHECK: Short name (likely small mol)
+phoxillum;9;small_mol_short;Y;CHECK: Short name (likely small mol)
+plozasiran;10;small_mol_short;N;CHECK: Short name (likely small mol)
+polihexanide;12;small_mol_short;Y;CHECK: Short name (likely small mol)
+porfimer;8;small_mol_short;Y;CHECK: Short name (likely small mol)
+pozelimab-bbfg;14;small_mol_short;N;CHECK: Short name (likely small mol)
+radamts;7;small_mol_short;N;CHECK: Short name (likely small mol)
+riboflavin 5'-;14;small_mol_short;Y;CHECK: Short name (likely small mol)
+somatrogon;10;small_mol_short;N;CHECK: Short name (likely small mol)
+tagraxofusp;11;small_mol_short;N;CHECK: Short name (likely small mol)
+tebentafusp;11;small_mol_short;N;CHECK: Short name (likely small mol)
+viltolarsen;11;small_mol_short;N;CHECK: Short name (likely small mol)
+vutrisiran;10;small_mol_short;N;CHECK: Short name (likely small mol)

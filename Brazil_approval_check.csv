@@ -1,0 +1,440 @@
+drug_id;canonical_name;approved;source
+103;5-aminolevulinic acid;N;
+104;acalabrutinib;Y;
+105;acetylcysteine;Y;
+106;acoramidis;N;
+107;acyclovir;Y;auto
+108;adagrasib;N;
+109;afatinib;N;
+110;aficamten;N;
+111;albendazole;Y;auto
+112;alectinib;Y;
+113;alitretinoin;N;
+114;allopurinol;N;
+78;alpelisib;Y;auto
+115;altretamine;N;
+116;amantadine;Y;auto
+117;ambrisentan;Y;auto
+118;amifampridine;N;
+119;amifostine;N;
+120;amiodarone hcl;Y;
+121;amphotericin b lipid complex;N;
+122;anagrelide;Y;auto
+123;apomorphine hcl;N;
+124;apremilast;N;
+82;arimoclomol;N;
+125;aripiprazole;Y;auto
+126;arsenic trioxide;N;
+127;artemether/lumefantrine;Y;auto
+60;artesunate;Y;auto
+37;asciminib;Y;
+128;ascorbic acid;N;
+129;atovaquone;N;
+66;avacopan;Y;auto
+30;avapritinib;N;
+130;avatrombopag;N;
+131;"avutometinib; defactinib";N;
+132;azacitidine;Y;auto
+133;aztreonam;Y;auto
+134;baclofen;Y;auto
+135;balsalazide disodium;N;
+83;bardoxolone methyl;N;
+98;beclomethasone dipropionate;Y;
+136;bedaquiline;Y;auto
+137;belinostat;Y;auto
+20;belumosudil mesilate;Y;auto
+138;belzutifan;Y;auto
+139;bendamustine for 50 ml admixture;Y;auto
+140;benznidazole;Y;auto
+91;benzoate;Y;
+141;benzoate and phenylacetate;N;
+142;berotralstat;Y;auto
+143;betaine;N;
+144;bexarotene;N;
+145;bicarbonate infusate;Y;
+146;birch triterpenes;N;
+147;bortezomib;Y;auto
+102;bosentan;Y;auto
+148;bosutinib;Y;auto
+149;brigatinib;Y;auto
+150;brilliant blue g ophthalmic solution;N;
+151;brincidofovir;N;
+65;budesonide + micronised;Y;auto
+152;buprenorphine in combination with naloxone;Y;
+153;busulfan;Y;auto
+10;cabozantinib;Y;
+92;caffeine;N;
+154;calcium;Y;
+155;calcium + magnesium + potassium + and oxybates;Y;
+9;cannabidiol;N;
+156;capmatinib;N;
+157;capsaicin;Y;auto
+158;carfilzomib;Y;
+159;carglumic acid;Y;
+160;cedazuridine and decitabine;N;
+161;ceritinib;N;
+52;chenodeoxycholic acid;N;
+70;chlormethine;N;
+162;cholic acid;N;
+163;cinacalcet;Y;
+164;cladribine;Y;auto
+165;clobazam;Y;auto
+166;clofarabine;N;
+167;clofazimine;N;
+168;clonidine;Y;auto
+169;clotrimazole;Y;auto
+170;cobicistat;N;
+171;cobimetinib;Y;
+172;colchicine;Y;auto
+173;colfosceril palmitate + cetyl alcohol + tyloxapol;N;
+81;copanlisib dihydrochloride;N;
+174;copper histidinate;N;
+175;crinecerfont;N;
+176;crizotinib;N;
+177;cromolyn ophthalmic solution;N;
+178;cysteamine enteric coated;N;
+179;cytarabine liposomal;N;
+180;d6-tetrabenazine + deutetrabenazine;N;
+23;dabrafenib mesilate;Y;auto
+181;dacomitinib;N;
+182;dalfampridine;N;
+29;danicopan;Y;auto
+183;dantrolene suspension for injection;N;
+184;dasatinib;Y;auto
+77;"daunorubicin ;cytarabine";Y;auto
+185;daunorubicin liposome injection;Y;
+186;decitabine;Y;auto
+187;deferasirox;Y;auto
+89;deferiprone;Y;auto
+188;deflazacort;Y;
+189;dehydrated alcohol;N;
+3;delamanid;Y;auto
+190;delandistrogene moxeparvovec-rokl;Y;
+191;dexamethasone intravitreal implant;Y;auto
+192;dexrazoxane;Y;auto
+193;diazepam;Y;auto
+194;diazoxide choline;N;
+195;dichlorphenamide;N;
+196;diethylenetriaminepentaacetic acid;N;
+197;difluprednate;N;
+198;dordaviprone;N;
+21;"doxecitine;doxribtimine";N;
+199;doxorubicin hcl liposome injection;Y;
+200;dronabinol;N;
+201;droxidopa;N;
+202;duvelisib;N;
+90;edaravone;Y;auto
+86;"eflornithine ;sulindac";N;
+203;eflornithine hcl;N;
+54;elafibranor;Y;auto
+204;elamipretide;N;
+205;elapegademase-lvlr;N;
+61;eliglustat;N;
+206;eltrombopag;Y;
+207;emtricitabine and tenofovir alafenamide;Y;auto
+208;enasidenib;N;
+209;encorafenib;N;
+210;encorafenib + binimetinib;N;
+211;entrectinib;N;
+212;epirubicin;N;
+213;epoetin alfa;N;
+214;epoprostenol;N;
+99;eprodisate disodium;N;
+215;eribulin;Y;
+94;etarfolatide;N;
+216;ethanolamine oleate;Y;
+217;ethiodized oil injection;N;
+218;etidronate disodium;N;
+219;everolimus;Y;auto
+220;exemestane;Y;auto
+28;fedratinib dihydrochloride monohydrate;N;
+221;felbamate;N;
+222;fenfluramine hci;Y;auto
+223;ferumoxytol;N;
+224;fexinidazole;N;
+225;fludarabine oral tablets;Y;auto
+100;fluocinolone acetonide;N;
+226;fomepizole;N;
+227;foscarbidopa and foslevodopa;N;
+76;fosdenopterin hydrobromide dihydrate;N;
+228;fosphenytoin;N;
+229;fostamatinib disodium hexahydrate;N;
+230;futibatinib;N;
+231;gabapentin;Y;auto
+232;gabapentin enacarbil;N;
+233;gallium-68 octreotide;Y;
+8;ganaxolone;N;
+234;ganciclovir intravitreal implant;Y;auto
+235;gefitinib;Y;
+26;gilteritinib;Y;
+56;givinostat monohydrate;N;
+63;glasdegib;N;
+79;glibenclamide;Y;auto
+33;glucarpidase;N;
+236;glutamine;N;
+39;glycerol phenylbutyrate;N;
+237;glycopyrrolate;N;
+67;govorestat;N;
+97;gusperimus trihydrochloride;N;
+238;halofantrine;N;
+239;hemin;Y;
+240;hydrocortisone;Y;auto
+241;hydroxycarbamide;Y;auto
+242;hydroxyprogesterone caproate;N;
+243;ibrutinib;Y;auto
+244;ibuprofen lysine;Y;
+245;idarubicin hcl for injection;Y;
+87;"idebenone;titanium dioxide";N;
+246;idelalisib;N;
+247;ifosfamide;Y;auto
+248;iloprost inhalation solution;Y;auto
+249;imatinib;Y;
+84;infigratinib monophosphate;N;
+250;interferon alfa-2b;Y;
+251;intravenous carbamazepine;Y;
+252;iobenguane i;Y;
+34;iptacopan monohydrate;Y;auto
+72;irinotecan anhydrous free-base;Y;
+253;iron-hexacyanoferrate;N;
+55;isavuconazole;N;
+254;isavuconazonium;Y;
+255;ivabradine;Y;auto
+256;ivacaftor;Y;auto
+1;"ivacaftor;tezacaftor;elexacaftor";Y;auto
+14;ivosidenib;Y;auto
+50;ixazomib;N;
+257;l-glutamine;N;
+258;lamotrigine;Y;auto
+259;larotrectinib;N;
+260;ledipasvir/sofosbuvir;Y;auto
+261;lenalidomide;Y;auto
+262;leniolisib;N;
+263;lenvatinib;Y;
+74;leriglitazone;N;
+35;letermovir;Y;auto
+264;leucovorin;N;
+265;levacetylleucine;N;
+266;levocarnitine;N;
+267;levodopa and carbidopa;Y;auto
+268;levoketoconazole;N;
+269;levoleucovorin;N;
+270;levomethadyl;N;
+271;lidocaine patch;Y;
+272;linerixibat;N;
+273;liothyronine injection;N;
+274;liposomal amikacin;Y;auto
+275;lodoxamide tromethamine;N;
+276;lomitapide;Y;auto
+69;lonafarnib;N;
+277;lorlatinib;N;
+278;lumacaftor and ivacaftor;Y;auto
+280;lurbinectedin;N;
+41;lutetium oxodotreotide;N;
+281;macimorelin;N;
+282;macitentan;N;
+283;macitentan and tadalafil;N;
+284;mafenide solution;N;
+285;mannitol;N;
+47;maralixibat chloride;Y;auto
+43;maribavir;Y;auto
+68;masitinib mesilate;N;
+286;mavacamten;Y;auto
+13;mavorixafor;N;
+287;mebendazole;Y;auto
+288;megestrol;N;
+289;meloxicam;Y;auto
+290;melphalan;Y;
+291;melphalan flufenamide;N;
+53;mercaptamine;N;
+292;mercaptopurine oral solution;N;
+293;"mesalamine; 5-aminosalicylic acid";N;
+294;mesna;Y;auto
+295;methotrexate oral solution;Y;auto
+296;methylene blue;N;
+297;metronidazole;Y;auto
+25;mexiletine;N;
+298;midazolam;Y;auto
+299;midodrine hcl;N;
+27;midostaurin;Y;
+93;mifepristone;N;
+49;migalastat;Y;auto
+300;miglustat;Y;auto
+301;miltefosine;N;
+51;mirdametinib;N;
+85;mitapivat;N;
+302;mitomycin-c;N;
+303;mitoxantrone hcl;Y;auto
+304;mobocertinib;N;
+305;modafinil;Y;auto
+62;momelotinib dihydrochloride monohydrate;Y;auto
+306;monooctanoin;N;
+307;morphine concentrate;Y;
+308;moxidectin;N;
+309;naltrexone hcl;N;
+310;nelarabine;N;
+311;nerandomilast;N;
+312;nifurtimox;N;
+313;nilotinib;N;
+314;nimodipine;N;
+315;nintedanib;Y;
+40;niraparib;Y;
+45;nirogacestat hydrobromide;N;
+316;nitazoxanide;Y;auto
+317;nitisinone;Y;auto
+318;nitric oxide;N;
+376;nitrite and thiosulfate;N;
+57;odevixibat;N;
+319;ofloxacin;Y;
+320;olaparib;Y;auto
+321;olutasidenib;N;
+322;omacetaxine mepesuccinate;N;
+6;omaveloxolone;Y;auto
+71;osilodrostat;Y;auto
+323;osimertinib;Y;
+377;oxybate;N;
+324;paclitaxel;Y;auto
+325;pacritinib;N;
+80;palovarotene;N;
+12;paltusotine;N;
+326;panobinostat;N;
+327;paricalcitol;Y;auto
+328;pazopanib;Y;
+329;pegvaliase-pqpz;Y;auto
+330;pemetrexed disodium;Y;
+5;pemigatinib;Y;auto
+331;pentamidine isethionate;N;
+332;pentastarch;N;
+333;pentosan polysulfate;N;
+334;pentostatin for injection;N;
+88;pexidartinib;N;
+335;phenobarbital;Y;auto
+378;phenylbutyrate and taurursodiol;N;
+336;phoxillum;N;
+337;pilocarpine hcl;Y;auto
+338;pirfenidone;Y;auto
+339;pirtobrutinib;Y;
+48;pitolisant;N;
+340;plerixafor;Y;auto
+341;polifeprosan 20 with carmustine;N;
+73;polihexanide;N;
+342;pomalidomide;Y;auto
+343;ponatinib;Y;
+344;porfimer;N;
+345;posaconazole;Y;auto
+346;potassium iodide oral solution;N;
+96;pralatrexate;N;
+347;pralsetinib;N;
+16;pretomanid;N;
+31;pridopidine;N;
+348;propranolol;Y;auto
+349;quinine;Y;auto
+350;quizartinib;N;
+351;raloxifene;Y;auto
+352;regorafenib;Y;auto
+353;repotrectinib;N;
+59;resminostat mesilate;N;
+354;revumenib;N;
+355;ribavirin;Y;auto
+356;riboflavin ophthalmic solution & ultraviolet a;N;
+357;rifabutin;N;
+358;rifampin;Y;
+359;rifampin + isoniazid + pyrazinamide;N;
+360;rifapentine;N;
+361;rifaximin;Y;auto
+362;riluzole;Y;auto
+32;rilzabrutinib;N;
+363;riociguat;N;
+19;ripretinib;N;
+364;risdiplam;Y;auto
+95;romidepsin;N;
+365;rosuvastatin;Y;
+101;rubitecan;N;
+366;rucaparib;N;
+367;rufinamide;Y;auto
+368;ruxolitinib;Y;
+369;sapropterin;Y;
+44;sebetralstat;N;
+15;seladelpar lysine dihydrate;N;
+370;selegiline hcl;N;
+371;selexipag;Y;
+372;selinexor;N;
+373;selpercatinib;Y;
+22;selumetinib;Y;auto
+17;sepiapterin;Y;auto
+374;sevabertinib;N;
+375;sildenafil;Y;auto
+58;sirolimus;Y;auto
+380;sofosbuvir;Y;auto
+381;solriamfetol;N;
+382;sorafenib;Y;
+383;sotalol hcl;Y;auto
+384;sotorasib;Y;auto
+38;sparsentan;N;
+385;sterile talc powder;N;
+386;stiripentol;N;
+387;succimer;Y;auto
+388;sulfadiazine;Y;
+389;tacrolimus extended-release capsules;Y;auto
+390;tadalafil;Y;auto
+46;tafamidis;Y;auto
+391;tafamidis meglumine;Y;auto
+392;tafenoquine;Y;auto
+393;taletrectinib;N;
+394;tasimelteon;N;
+395;tazemetostat;Y;auto
+396;tecovirimat;N;
+36;telotristat etiprate;N;
+397;temozolomide;Y;auto
+398;teniposide;N;
+399;tenofovir;Y;
+400;tepotinib;Y;auto
+401;tetrabenazine;Y;
+279;"tezacaftor;ivacaftor";Y;auto
+402;thalidomide;N;
+379;thiosulfate;N;
+403;thiotepa;Y;auto
+404;tinidazole;Y;auto
+405;tiopronin;N;
+64;tiratricol;N;
+406;tobramycin for inhalation;Y;
+407;tolvaptan;N;
+408;topiramate;Y;auto
+409;toremifene;N;
+11;tovorafenib;N;
+410;trabectedin;Y;
+411;trametinib and dabrafenib;Y;
+42;trametinib dimethyl sulfoxide;Y;
+412;treosulfan;N;
+413;treprostinil inhalation powder;N;
+414;triclabendazole;N;
+415;trientine hcl;Y;
+416;trifluridine/tipiracil;Y;
+417;triheptanoin;N;
+418;trimetrexate glucuronate;N;
+4;trofinetide;N;
+419;trypan blue;N;
+420;tucatinib;N;
+421;umbralisib;N;
+422;upadacitinib;Y;
+423;uridine triacetate;N;
+424;urofollitropin;N;
+425;ursodiol;N;
+426;valbenazine;N;
+427;valrubicin;N;
+24;vamorolone;N;
+428;vandetanib;Y;auto
+429;vanzacaftor + tezacaftor + and deutivacaftor;N;
+7;velmanase alfa;Y;
+430;vemurafenib;Y;auto
+431;venetoclax;Y;auto
+432;vigabatrin;Y;
+18;vimseltinib dihydrate;N;
+433;vincristine liposome injection;Y;
+2;vorasidenib;Y;
+434;vorinostat;N;
+75;voxelotor;N;
+435;zanubrutinib;Y;auto
+436;zidovudine;Y;auto
+437;ziftomenib;N;
+438;zinc;N;
+439;zoledronate;N;
