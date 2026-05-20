@@ -101,3 +101,54 @@ ranking_full <- availability_index %>%
   arrange(Rank_approval)
 
 print(ranking_full)
+
+
+
+
+
+### Find out what type of drugs are universally approved or not approved anywhere
+### Calculate approval count per drug
+master_grouped <- master %>%
+  mutate(
+    n_approved = approved_brazil + approved_canada + approved_nl +
+      approved_singapore + approved_sa,
+    group = case_when(
+      n_approved == 0 ~ "Not approved anywhere",
+      n_approved == 5 ~ "Universally approved",
+      TRUE            ~ "Other"
+    )
+  )
+
+# Link therapeutic area to drug
+group_categories <- master_grouped %>%
+  filter(group %in% c("Not approved anywhere", "Universally approved")) %>%
+  select(drug_id, group) %>%
+  left_join(drug_to_category %>% select(drug_id, category), by = "drug_id")
+
+# Top therapeutic areas per group
+group_categories %>%
+  filter(!is.na(category)) %>%
+  count(group, category, sort = TRUE) %>%
+  group_by(group) %>%
+  slice_max(n, n = 5) %>%
+  print(n = 20)
+
+### Amount of drugs per group 
+master_grouped %>%
+  count(group)
+# Which % of therapeutic area is universally approved/not approved at all? 
+master_grouped %>%
+  left_join(drug_to_category %>% select(drug_id, category), by = "drug_id") %>%
+  filter(!is.na(category)) %>%
+  group_by(category) %>%
+  summarise(
+    total_in_cat       = n(),
+    n_universal        = sum(group == "Universally approved"),
+    n_none             = sum(group == "Not approved anywhere"),
+    pct_universal      = round(100 * n_universal / total_in_cat, 1),
+    pct_none           = round(100 * n_none      / total_in_cat, 1),
+    .groups = "drop"
+  ) %>%
+  filter(total_in_cat >= 10) %>%
+  arrange(desc(pct_none)) %>%
+  print(n = Inf)

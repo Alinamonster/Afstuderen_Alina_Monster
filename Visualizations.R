@@ -31,7 +31,7 @@ ta_data <- master_with_cats %>%
 ### Select major therapeutic categories (at least 9 drugs). Others are grouped
 ### into "Other small categories" to simplify visualization
 top_categories <- ta_data %>%
-  filter(Total >= 9) %>%
+  filter(Total >= 5) %>%
   pull(category)
 
 ta_grouped <- ta_data %>%
@@ -41,6 +41,8 @@ ta_grouped <- ta_data %>%
   group_by(category_display) %>%
   summarise(across(Brazil:`South Africa`, sum), Total = sum(Total), .groups = "drop") %>%
   arrange(desc(Total))
+
+
 
 ### Reshape dataset into long for heatmap visualisation. Standardise category labels
 ta_long <- ta_grouped %>%
@@ -142,65 +144,67 @@ fig5 <- ggplot(ta_long_avail, aes(x = Country, y = category_short, fill = N_drug
 
 print(fig5)
 
+### Build a long table with percentage AND counts per cell
 
-### Calculate availability percentages by category and country
-availability_pct_per_cat <- master_with_cats %>%
+availability_counts <- master_with_cats %>%
+  filter(!is.na(category)) %>%
   group_by(category) %>%
   summarise(
-    Brazil         = round(100 * sum(available_brazil, na.rm = TRUE) / 
-                             sum(approved_brazil | available_brazil, na.rm = TRUE), 1),
-    Canada         = round(100 * sum(available_canada, na.rm = TRUE) / 
-                             sum(approved_canada | available_canada, na.rm = TRUE), 1),
-    Netherlands    = round(100 * sum(available_nl, na.rm = TRUE) / 
-                             sum(approved_nl | available_nl, na.rm = TRUE), 1),
-    Singapore      = round(100 * sum(available_singapore, na.rm = TRUE) / 
-                             sum(approved_singapore | available_singapore, na.rm = TRUE), 1),
-    `South Africa` = round(100 * sum(available_sa, na.rm = TRUE) / 
-                             sum(approved_sa | available_sa, na.rm = TRUE), 1),
-    Total_drugs    = n(),
+    Brazil_n        = sum(available_brazil,    na.rm = TRUE),
+    Brazil_d        = sum(approved_brazil    | available_brazil,    na.rm = TRUE),
+    Canada_n        = sum(available_canada,    na.rm = TRUE),
+    Canada_d        = sum(approved_canada    | available_canada,    na.rm = TRUE),
+    Netherlands_n   = sum(available_nl,        na.rm = TRUE),
+    Netherlands_d   = sum(approved_nl        | available_nl,        na.rm = TRUE),
+    Singapore_n     = sum(available_singapore, na.rm = TRUE),
+    Singapore_d     = sum(approved_singapore | available_singapore, na.rm = TRUE),
+    `South Africa_n` = sum(available_sa,       na.rm = TRUE),
+    `South Africa_d` = sum(approved_sa       | available_sa,        na.rm = TRUE),
+    Total_drugs     = n(),
     .groups = "drop"
   ) %>%
-  arrange(desc(Total_drugs))
-
-### Filter categories with sufficient sample size (at least 10)
-availability_pct_filtered <- availability_pct_per_cat %>%
   filter(Total_drugs >= 10)
 
-### Convert availability percentages to long format
-ta_pct_long <- availability_pct_filtered %>%
+### Pivot to long, splitting "Country_n" / "Country_d" into separate columns
+counts_long <- availability_counts %>%
   select(-Total_drugs) %>%
-  pivot_longer(cols = Brazil:`South Africa`, 
-               names_to = "Country", 
-               values_to = "Pct") %>%
-  mutate(
-    Country = factor(Country, 
-                     levels = c("Brazil", "Canada", "Netherlands", "Singapore", "South Africa")),
-    category_short = str_replace(category, "^Rare ", "") %>% 
-      str_to_sentence(),
-    category_short = factor(category_short, 
-                            levels = rev(unique(category_short)))
-  )
+  pivot_longer(
+    cols = -category,
+    names_to = c("Country", "type"),
+    names_sep = "_",
+    values_to = "value"
+  ) %>%
+  pivot_wider(names_from = type, values_from = value) %>%
+  rename(n_available = n, n_denom = d)
 
-### Availability percentage heatmap
+### Merge with the existing percentage long table
+ta_pct_long <- ta_pct_long %>%
+  left_join(counts_long, by = c("category", "Country" = "Country"))
+ta_pct_long <- ta_pct_long %>%
+  mutate(label = sprintf("%.0f%%\n%d/%d", Pct, n_available, n_denom))
+
+### Create heatmap
 fig6 <- ggplot(ta_pct_long, aes(x = Country, y = category_short, fill = Pct)) +
   geom_tile(color = "white", linewidth = 0.5) +
-  geom_text(aes(label = sprintf("%.0f%%", Pct)), 
-            color = "black", size = 3.5) +
+  geom_text(aes(label = sprintf("%.0f%%", Pct)),
+            color = "black", size = 4.2, fontface = "bold",
+            vjust = -0.4) +
+  geom_text(aes(label = sprintf("%d/%d", n_available, n_denom)),
+            color = "black", size = 2.6,
+            vjust = 2.2) +
   scale_fill_gradient2(low = "#a83232", mid = "#f4e8a8", high = "#2e7d32",
                        midpoint = 50, limits = c(0, 100),
                        name = "Availability (%)") +
   labs(
     title = "Availability of approved orphan drugs per therapeutic area",
-    x = NULL,
-    y = NULL
+    x = NULL, y = NULL
   ) +
   theme_minimal(base_size = 11) +
   theme(
     panel.grid = element_blank(),
     axis.text.x = element_text(face = "bold"),
     axis.text.y = element_text(size = 9),
-    plot.title = element_text(face = "bold", size = 12),
-    plot.subtitle = element_text(size = 10, color = "grey40"),
+    plot.title  = element_text(face = "bold", size = 12),
     legend.position = "right"
   )
 
@@ -317,8 +321,6 @@ fig3 <- fig3a + fig3b +
 
 print(fig3)
 
-
-
 ### Prepare country-level approval and availability counts
 ### Calculate total numbers of approved and available orphan drugs for each country.
 
@@ -368,3 +370,59 @@ fig2 <- ggplot(fig2_data, aes(x = Country, y = N_drugs, fill = Status)) +
   )
 
 print(fig2)
+
+
+
+
+
+
+### Dumbbell plot: approval vs. availability overlap per country pair
+### like fig3 but only keep important parts
+pair_data <- bind_rows(
+  overlap_app   %>% mutate(measure = "Approval"),
+  overlap_avail %>% mutate(measure = "Availability")
+) %>%
+  filter(as.character(Country_A) < as.character(Country_B)) %>%
+  mutate(
+    pair = paste(Country_A, Country_B, sep = " – "),
+    measure = factor(measure, levels = c("Approval", "Availability"))
+  )
+
+### Sort pairs alphabetically
+pair_data <- pair_data %>%
+  mutate(pair = as.character(pair),
+         pair = factor(pair, levels = rev(sort(unique(pair)))))
+### Wide format to draw the connecting segment
+pair_wide <- pair_data %>%
+  select(pair, measure, Overlap) %>%
+  pivot_wider(names_from = measure, values_from = Overlap)
+
+### Dumbbell plot
+fig3_dumbbell <- ggplot() +
+  geom_segment(data = pair_wide,
+               aes(x = Availability, xend = Approval, y = pair, yend = pair),
+               color = "#B4B2A9", linewidth = 1) +
+  geom_point(data = pair_data,
+             aes(x = Overlap, y = pair, color = measure),
+             size = 3.5) +
+  scale_color_manual(values = c("Approval" = "#185FA5",
+                                "Availability" = "#A32D2D"),
+                     name = NULL) +
+  scale_x_continuous(limits = c(0, 100),
+                     breaks = seq(0, 100, 20),
+                     labels = function(x) paste0(x, "%")) +
+  labs(
+    title = "Pairwise overlap: approval vs. availability",
+    x = "Overlap (%)",
+    y = NULL
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor   = element_blank(),
+    axis.text.y        = element_text(face = "bold"),
+    plot.title         = element_text(face = "bold", size = 12),
+    legend.position    = "top"
+  )
+
+print(fig3_dumbbell)

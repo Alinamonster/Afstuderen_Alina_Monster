@@ -2,7 +2,7 @@ FDA_orphan <- read_xlsx("Databases/FDA_orphandesignation.xlsx")
 
 # FDA orphan designation list: keep only approved/designated entries and clean names
 FDA_orphan <- FDA_orphan %>%
-  filter(`Orphan Designation Status` == "Designated/Approved") %>% 
+  filter(`Orphan Designation Status` == "Designated/Approved") %>%
   transmute(
     INGREDIENT = clean_ingredient(`Generic Name`)
   ) %>%
@@ -17,18 +17,25 @@ EMA_orphan <- EMA_orphan %>%
   filter(`Orphan medicine` == "Yes") %>%
   transmute(
     INGREDIENT = clean_ingredient(`Active substance`),
-    atc_code = na_if(`ATC code (human)`, "")
+    atc_code   = na_if(`ATC code (human)`, "")
   ) %>%
   filter(!is.na(INGREDIENT), INGREDIENT != "") %>%
-  distinct(INGREDIENT, .keep_all = TRUE)  
+  distinct(INGREDIENT, .keep_all = TRUE)
 
 
-# Combine FDA + EMA orphan lists into a single reference set
-master_orphan_list <- c(
-  EMA_orphan$INGREDIENT,
-  FDA_orphan$INGREDIENT
-) %>% unique()
+# Combine FDA + EMA orphan lists into a single reference set. Keep origin
+master_orphan_sources <- bind_rows(
+  EMA_orphan %>% transmute(drug = INGREDIENT, source = "EMA"),
+  FDA_orphan %>% transmute(drug = INGREDIENT, source = "FDA")
+) %>%
+  group_by(drug) %>%
+  summarise(
+    in_EMA = any(source == "EMA"),
+    in_FDA = any(source == "FDA"),
+    .groups = "drop"
+  )
 
+master_orphan_list <- master_orphan_sources$drug
  
 
 ### PUBCHEM API (MOLECULAR WEIGHT CHECK)
@@ -222,29 +229,66 @@ if (nrow(missing) > 0) {
   cat("Biologics:", sum(!pubchem_results_final$is_small_molecule_final, na.rm = TRUE), "\n")
   cat("Still NA:", sum(is.na(pubchem_results_final$is_small_molecule_final)), "\n\n")
   
-  # Breakdown of classification sources
-  cat("=== BREAKDOWN ===\n")
-  cat("PubChem MW < 1000:", 
-      sum(pubchem_results_final$found & pubchem_results_final$is_small_molecule_final, na.rm = TRUE), "\n")
-  cat("PubChem MW >= 1000:", 
-      sum(pubchem_results_final$found & !pubchem_results_final$is_small_molecule_final, na.rm = TRUE), "\n")
-  cat("Manual: Small molecule (Y):", 
-      sum(!pubchem_results_final$found & pubchem_results_final$is_small_molecule_final, na.rm = TRUE), "\n")
-  cat("Manual: Biologic (N):", 
-      sum(!pubchem_results_final$found & !pubchem_results_final$is_small_molecule_final, na.rm = TRUE), "\n\n")
   
-  # Final orphan drug list (small molecules only)
-  master_orphan_list <- pubchem_results_final %>%
+### Filter EMA and FDA on small molecule drugs  
+  classif <- pubchem_results_final %>%
+    select(INGREDIENT = drug, is_small_molecule_final)
+  
+  # --- EMA filtered
+  EMA_small <- EMA_orphan %>%
+    distinct(INGREDIENT) %>%
+    left_join(classif, by = "INGREDIENT") %>%
+    mutate(source = "EMA")
+  
+  ema_pct <- EMA_small %>%
+    summarise(
+      bron        = "EMA",
+      n_totaal    = n(),
+      n_small     = sum(is_small_molecule_final, na.rm = TRUE),
+      n_unmatched = sum(is.na(is_small_molecule_final)),
+      pct_small   = round(100 * n_small / n_totaal, 1)
+    )
+  
+  # --- FDA filtered
+  FDA_small <- FDA_orphan %>%
+    distinct(INGREDIENT) %>%
+    left_join(classif, by = "INGREDIENT") %>%
+    mutate(source = "FDA")
+  
+  fda_pct <- FDA_small %>%
+    summarise(
+      bron        = "FDA",
+      n_totaal    = n(),
+      n_small     = sum(is_small_molecule_final, na.rm = TRUE),
+      n_unmatched = sum(is.na(is_small_molecule_final)),
+      pct_small   = round(100 * n_small / n_totaal, 1)
+    )
+  
+  # Percentage
+  cat("=== PERCENTAGE SMALL MOLECULE PER BRON ===\n")
+  print(bind_rows(ema_pct, fda_pct))
+  
+  
+  
+  master_orphan_sm <- bind_rows(EMA_small, FDA_small) %>%
     filter(is_small_molecule_final == TRUE) %>%
-    pull(drug)
+    group_by(INGREDIENT) %>%
+    summarise(
+      in_EMA = any(source == "EMA"),
+      in_FDA = any(source == "FDA"),
+      .groups = "drop"
+    )
   
-  write.csv(data.frame(drug = master_orphan_list), 
-            "master_orphan_list.csv", 
-            row.names = FALSE)
+  master_orphan_list <- master_orphan_sm$INGREDIENT
+  
+  write.csv(data.frame(drug = master_orphan_list),
+            "master_orphan_list.csv", row.names = FALSE)
+  
+  cat("Gecombineerde small-molecule-lijst:", length(master_orphan_list), "drugs\n\n")
 }
 
+master_orphan_sm %>% filter(in_EMA & in_FDA) %>% nrow()
 
-file.choose()
 
 # Load curated final dataset
 master_orphan_list_final <- read.csv("master_orphan_list_final.csv", sep = ";", 
@@ -267,3 +311,14 @@ orphan_variants_long <- master_orphan_list_final %>%
 
 cat("Unique drugs:", n_distinct(orphan_variants_long$drug_id), "\n")
 cat("Total variants:", nrow(orphan_variants_long), "\n")
+
+
+
+excl <- pubchem_results_final %>% filter(is_small_molecule_final == FALSE)
+
+n_mw_over   <- sum(excl$found == TRUE & excl$molecular_weight >= 1000, na.rm = TRUE)
+n_bio_other <- nrow(excl) - n_mw_over
+
+cat("Uitgesloten totaal:        ", nrow(excl),   "\n")
+cat("  - MW >= 1000 Da (PubChem):", n_mw_over,   "\n")
+cat("  - Biologic (overig):      ", n_bio_other, "\n")
