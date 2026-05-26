@@ -102,10 +102,6 @@ ranking_full <- availability_index %>%
 
 print(ranking_full)
 
-
-
-
-
 ### Find out what type of drugs are universally approved or not approved anywhere
 ### Calculate approval count per drug
 master_grouped <- master %>%
@@ -151,4 +147,62 @@ master_grouped %>%
   ) %>%
   filter(total_in_cat >= 10) %>%
   arrange(desc(pct_none)) %>%
+  print(n = Inf)
+
+
+
+
+
+
+
+### Voeg designation date toe vanuit de originele bestanden
+### Lees de bronnen opnieuw in MET de datum-kolom
+
+FDA_orphan_dates <- read_xlsx("Databases/FDA_orphandesignation.xlsx",
+                              col_types = "text") %>%
+  filter(`Orphan Designation Status` == "Designated/Approved") %>%
+  transmute(
+    INGREDIENT = clean_ingredient(`Generic Name`),
+    fda_date   = as.Date(as.numeric(`Marketing Approval Date`), origin = "1899-12-30")
+  ) %>%
+  filter(!is.na(INGREDIENT), INGREDIENT != "") %>%
+  group_by(INGREDIENT) %>%
+  summarise(fda_date = suppressWarnings(min(fda_date, na.rm = TRUE)),
+            .groups = "drop") %>%
+  mutate(fda_date = if_else(is.infinite(as.numeric(fda_date)), as.Date(NA), fda_date))
+
+EMA_orphan_dates <- read_xlsx("Databases/Approved/Netherlands_approved.xlsx",
+                              col_types = "text") %>%
+  filter(`Orphan medicine` == "Yes") %>%
+  transmute(
+    INGREDIENT = clean_ingredient(`Active substance`),
+    ema_date   = dmy(`Marketing authorisation date`)
+  ) %>%
+  filter(!is.na(INGREDIENT), INGREDIENT != "") %>%
+  group_by(INGREDIENT) %>%
+  summarise(ema_date = suppressWarnings(min(ema_date, na.rm = TRUE)),
+            .groups = "drop") %>%
+  mutate(ema_date = if_else(is.infinite(as.numeric(ema_date)), as.Date(NA), ema_date))
+
+### Combineer tot één designation-datum per ingredient (vroegste van de twee)
+designation_dates <- full_join(FDA_orphan_dates, EMA_orphan_dates, by = "INGREDIENT") %>%
+  mutate(designation_date = pmin(fda_date, ema_date, na.rm = TRUE))
+
+### Koppel aan de 67 drugs via je orphan_variants_long
+### (want master gebruikt drug_id, designation_dates gebruikt INGREDIENT)
+not_approved_dates <- master_grouped %>%
+  filter(group == "Not approved anywhere") %>%
+  select(drug_id) %>%
+  left_join(orphan_variants_long, by = "drug_id") %>%
+  left_join(designation_dates, by = c("drug_variant" = "INGREDIENT")) %>%
+  group_by(drug_id) %>%
+  summarise(designation_date = min(designation_date, na.rm = TRUE), .groups = "drop")
+
+### Vat samen
+summary(not_approved_dates$designation_date)
+
+not_approved_dates %>%
+  mutate(year = year(designation_date)) %>%
+  count(year) %>%
+  arrange(year) %>%
   print(n = Inf)

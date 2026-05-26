@@ -11,6 +11,9 @@ library(stringdist)
 library(readr)
 library(ggplot2)
 library(patchwork)
+library(lubridate)
+library(broom)
+library(emmeans)
 
 ### Cleaning
 # Standardizes ingredient strings: casing, punctuation, salts, dosages, etc.

@@ -192,9 +192,12 @@ fig6 <- ggplot(ta_pct_long, aes(x = Country, y = category_short, fill = Pct)) +
   geom_text(aes(label = sprintf("%d/%d", n_available, n_denom)),
             color = "black", size = 2.6,
             vjust = 2.2) +
-  scale_fill_gradient2(low = "#a83232", mid = "#f4e8a8", high = "#2e7d32",
-                       midpoint = 50, limits = c(0, 100),
-                       name = "Availability (%)") +
+  scale_fill_gradient2(
+    low = "#e8f5e8",   
+    high = "#1b5e20",  
+    limits = c(0, 100),
+    name = "Availability (%)"
+  ) +
   labs(
     title = "Availability of approved orphan drugs per therapeutic area",
     x = NULL, y = NULL
